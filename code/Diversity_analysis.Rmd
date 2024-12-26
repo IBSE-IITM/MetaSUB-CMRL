@@ -1,0 +1,75 @@
+Chennai diversity analysis code 
+
+```{r}
+library(phyloseq)
+library(tidyverse)
+library(ggpubr)
+```
+
+```{r}
+## Load the taxa count data from bracken output
+chennai <- read.delim("../data/Chennai_data/bracken_species_non_human_read_count.csv", sep=',', header = TRUE, row.names = 1)
+## Load the Metadata
+meta = read.delim("../data/Chennai_data/metadata_processed.csv", sep=',', header = TRUE, row.names = 1)
+```
+
+```{r}
+transposed_chennai <- t(chennai)
+index_column <- rownames(transposed_chennai)
+new_dataframe <- data.frame(Species = index_column)
+rownames(new_dataframe) <- new_dataframe$Species
+new_dataframe = new_dataframe%>%as.matrix()
+
+otu_bacteria = otu_table(transposed_chennai, taxa_are_rows = TRUE)
+saml = sample_data(meta)
+tax1 = tax_table(new_dataframe)
+
+ps_bacteria = phyloseq(otu_bacteria, saml, tax1)
+```
+
+Alpha diversity
+
+```{r}
+# Define the alpha diversity measures
+alpha_measurment = c("Shannon")
+
+# Estimate richness
+richness_estimates = estimate_richness(ps_bacteria, measures = alpha_measurment)
+
+# Add the "select.object" to the richness_estimates data frame
+richness_estimates$select_object = sample_data(ps_bacteria)$select.object
+richness_estimates = subset(richness_estimates, select_object != 'Elevator')
+
+sample_counts = as.data.frame(table(sample_data(ps_bacteria)$select.object))
+colnames(sample_counts) = c("select_object", "N")
+richness_estimates = merge(richness_estimates, sample_counts, by = "select_object")
+richness_estimates$label = paste(richness_estimates$select_object, "(N=", richness_estimates$N, ")", sep="")
+
+
+p <- ggboxplot(richness_estimates, x = "label", y = "Shannon",
+          color = "label", palette = "jco",
+          add = "jitter")+ geom_pwc(
+  aes(group = select_object), tip.length = 0.02,
+  method = "wilcox_test", p.adjust.method = "fdr",
+  p.adjust.by = "group", label = "p.adj"
+) + stat_compare_means(label.y = 8.1)  
+p 
+
+ggsave("../figures/Figure_3_A_selection_object_alpha_diversity.png", p, dpi = 600,  units = "px", width = 4000, height = 3000)
+
+```
+
+```{r}
+median_values = aggregate(Shannon ~ label, richness_estimates, median)
+print(median_values)
+```
+
+Beta diversity
+
+```{r}
+ps_bacteria_new = subset_samples(ps_bacteria, select.object.sampling.place != 'Elevator')
+sel_obj = plot_ordination(ps_bacteria_new, ordinate(ps_bacteria_new, "PCoA", "bray"), color = "select.object.sampling.place") + geom_point(size=5) + stat_ellipse() + theme_classic()
+sel_obj
+ggsave("../figures/Figure_3_B_selection_object_beta_diversity.png", sel_obj, dpi = 600)
+
+```

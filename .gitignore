@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 *.csv
 *.json
+*.png
 code/notebook/*
