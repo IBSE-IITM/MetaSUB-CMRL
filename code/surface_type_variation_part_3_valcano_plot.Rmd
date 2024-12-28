@@ -1,0 +1,71 @@
+
+## Microbial diversity and composition across various surface types 
+## surface site taxa difference analysis code 3
+
+```{r}
+library(ggplot2)
+library(ggrepel)
+
+```
+
+
+```{r}
+valcano_plot = function(data, save_table = FALSE, file_name = "dummy.csv", y_max = 12){
+  data$diffexpressed <- "NO"
+  # if log2Foldchange > 0.6 and pvalue < 0.05, set as "UP" 
+  data$diffexpressed[data$Log2FC > 1 & data$qval < 0.05] <- "UP"
+  # if log2Foldchange < -0.6 and pvalue < 0.05, set as "DOWN"
+  data$diffexpressed[data$Log2FC < -1 & data$qval < 0.05] <- "DOWN"
+  
+  data$delabel <- NA
+  data$delabel[data$diffexpressed != "NO"] <- data$feature [data$diffexpressed != "NO"]
+  data$delabel = gsub("\\.", " ", data$delabel)
+  
+  p = ggplot(data=data, aes(x=Log2FC, y=-log10(qval), col=diffexpressed, label=delabel)) +
+        geom_point() + 
+        theme_minimal() +
+        geom_text_repel(size = 4) +
+        scale_color_manual(values=c("blue", "gray", "red")) +
+        geom_vline(xintercept=c(-1, 1), col="black",  size = 0.3) +
+        geom_hline(yintercept=-log10(0.05), col="black",  size = 0.3) +
+        xlim(-4,4) +
+        ylim(0,y_max) +
+        #ylim(0,4) +
+        theme(legend.position = "none",
+              panel.grid.major = element_blank(),  # Remove major grid lines
+              panel.grid.minor = element_blank())  # Remove minor grid lines)
+        #scale_x_continuous(breaks = NULL) + 
+        #scale_y_continuous(breaks = NULL) 
+        #element_blank()
+        #ggtitle("Class") 
+  print("outside")
+  if(save_table){
+    print("inside")
+    data = subset(data, diffexpressed != 'NO')
+    write.csv(data, file = file_name)
+  }
+  return (p)
+}
+```
+
+Figure 4A: Kiosk Valcano plot
+```{r}
+
+species_data = read.csv("../../results/chennai_kiosk_species_abd_0.001/valcano_species.csv",sep = ",")
+#read.csv("C:\\Users\\yuvar\\lab\\projects\\metasub\\github\\Chennai-MetaSUB\\findings\\kiosk\\results_v2_1\\chennai_kiosk_species_abd_0.001_v2\\valcano_species.csv",sep = ",",check.names = FALSE)
+
+pp = valcano_plot(species_data, save_table = FALSE)
+pp
+ggsave( "../../figures/Figure_4A.png" ,pp, dpi = 600 )
+```
+Figure 4B: Rod Valcano plot
+
+```{r}
+
+species_data = read.csv("../../results/chennai_Rod_species_abd_0.001/valcano_species.csv",sep = ",")
+#read.csv("C:\\Users\\yuvar\\lab\\projects\\metasub\\github\\Chennai-MetaSUB\\findings\\kiosk\\results_v2_1\\chennai_kiosk_species_abd_0.001_v2\\valcano_species.csv",sep = ",",check.names = FALSE)
+
+pp = valcano_plot(species_data, save_table = FALSE, y_max = 4)
+pp
+ggsave( "../../figures/Figure_4B.png" ,pp, dpi = 600 )
+```

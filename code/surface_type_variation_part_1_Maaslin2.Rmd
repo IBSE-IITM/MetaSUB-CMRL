@@ -1,0 +1,70 @@
+
+## Microbial diversity and composition across various surface types 
+## surface site taxa difference analysis code 1
+## Next variation_across_surface_type.ipynb
+```{r}
+if(!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("Maaslin2")
+```
+
+```{r}
+library(Maaslin2)
+```
+
+
+Load the Metadata 
+```{r}
+df_input_metadata = read.csv("../data/Chennai_data/metadata_processed.csv", 
+                         sep              = ",", 
+                         stringsAsFactors = FALSE, 
+                         row.names        = 1)
+```
+
+Load the Bracken Relative abundance csv
+```{r}
+
+species_df = read.csv("../data/Chennai_data/bracken_species_non_human_processed.csv", ## 
+                         sep              = ",", 
+                         stringsAsFactors = FALSE, 
+                         row.names        = 1)
+
+```
+
+
+## Write a function to make it easy
+
+```{r}
+
+run_maaslin2 <- function(input_data, df_input_metadata, output, min_abundance, min_prevalence, standardize, analysis_method, normalization, fixed_effects, reference) {
+    Maaslin2(
+        input_data     = input_data,
+        input_metadata = df_input_metadata, 
+        output         = output,
+        fixed_effects  = fixed_effects,
+        reference      = reference,
+        normalization  = normalization,
+        transform      = "NONE",
+        analysis_method = analysis_method,
+        max_significance = 0.05,
+        min_abundance  = min_abundance,
+        min_prevalence = min_prevalence,
+        standardize    = standardize,
+        cores          = 10
+    )
+}
+
+
+```
+
+## Call the function
+```{r}
+fit_func_species <- run_maaslin2(species_df,df_input_metadata, 
+                                 "../results/chennai_kiosk_species_abd_0.001", 
+                                 0.001, 0.5, FALSE, "LM", "CLR",c("is_kiosk"),c("is_kiosk,Other"))
+fit_func_species <- run_maaslin2(species_df,df_input_metadata, 
+                                 output ="../results/chennai_Rod_species_abd_0.001", 
+                                 0.001, 0.5, FALSE, "LM", "CLR",c("is_Rod"),c("is_Rod,Other"))
+
+
+```

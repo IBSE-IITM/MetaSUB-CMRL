@@ -162,3 +162,5 @@ cython_debug/
 *.json
 *.png
 code/notebook/*
+data/Chennai_data/MAG_enrichment_analysis/*
+results/*
