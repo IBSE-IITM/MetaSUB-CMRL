@@ -164,3 +164,4 @@ cython_debug/
 code/notebook/*
 data/Chennai_data/MAG_enrichment_analysis/*
 results/*
+.Rhistory

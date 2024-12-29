@@ -1,0 +1,39 @@
+library(readr)
+library(dplyr)
+library(ggplot2)
+data <- read.csv("../results/microbial_signatures/001/species_prevalence.csv")
+prevalence <- data$prevalence
+prev = as.data.frame(prevalence)
+core_thresh = 0.97
+sub_core_thresh = 0.8
+periph_thresh = 0.15
+
+n_periph = length( prevalence [prevalence< periph_thresh & prevalence> 0.00001]) # some species have prevalance of 0 after threshold filtering
+n_core = length( prevalence [prevalence > core_thresh])
+n_sub_core =  length( prevalence [prevalence > sub_core_thresh & prevalence < core_thresh] )
+
+
+
+plot <- ggplot(prev, aes(prev$prevalence)) +
+  geom_density(color= 'darkblue', fill= 'lightblue', size=1, alpha=0.7) +
+  theme_minimal() +
+  xlab('Species Prevalence') +
+  ylab('Density') +
+  geom_vline(xintercept=periph_thresh, color='black') +
+  geom_vline(xintercept=sub_core_thresh, color='black') +
+  geom_vline(xintercept=core_thresh, color='black') +
+  annotate(geom='label', x=0.6, y=2.4, label= paste("Sub-Core 80-97%", n_sub_core), size=5) + #0001:2.4
+  annotate(geom='label', x=0.33, y=6.0, label= paste("Peripheral < 15%",n_periph), size=5) + #0001:4.
+  annotate(geom='label', x=0.85, y=6.0, label= paste("Core > 97%", n_core), size=5) + #0001:3.2
+  theme(axis.title = element_text(size = 18),  # Increase font size here
+        panel.grid.major = element_blank(),      # Remove major grid lines
+        panel.grid.minor = element_blank())      # Remove minor grid lines
+
+
+
+plot
+
+ggsave("../figures/Figure_2_A.png", dpi= 600 ,  width = 5, height = 3)
+
+
+

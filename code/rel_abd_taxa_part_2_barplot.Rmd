@@ -1,0 +1,56 @@
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+```
+
+
+
+```{r}
+
+plot_maker_with_order = function (df, title, cat){
+      # Pivot the data
+      df_long <- pivot_longer(df, cols = -Samples, names_to = "Category", values_to = "Value")
+      
+      # Calculate the sum of "Proteobacteria" values for each sample
+      sample_c <- df_long %>%
+        filter(Category == cat) %>%
+        group_by(Samples) %>%
+        summarize(total_c = sum(Value))
+      
+      # Sort the samples based on their total "Proteobacteria" values in descending order
+      sample_order <- sample_c %>%
+        arrange(desc(total_c)) %>%
+        pull(Samples)
+      
+      # Reorder the Samples factor in the df_long dataframe
+      df_long$Samples <- factor(df_long$Samples, levels = sample_order)
+      
+      # Create the stacked bar plot
+      pl = ggplot(df_long, aes(x = Samples, y = Value, fill = Category)) +
+        geom_bar(stat = "identity") +
+        scale_fill_brewer(palette = "Set3") +
+        labs(x = "Samples", y = "Value", title = title) +
+        theme_minimal() +
+        theme(axis.text.x = element_blank(),
+              axis.ticks.x = element_blank(),
+              plot.title = element_text(hjust = 0.5))  # Centered title
+      return (pl)
+      
+}
+
+```
+
+
+## At Class level
+
+```{r}
+chennai <- read_csv("../results/relative_abundance/class_with_metadata.csv")
+#chennai$Samples <- paste(chennai$Samples, 'X', sep = "_")
+chennai <- chennai[, -which(names(chennai) == "select object/sampling place")]
+plot = plot_maker_with_order(chennai, 'Class', 'Actinobacteria')
+
+#ggsave("C:\\Users\\yuvar\\lab\\projects\\metasub\\github\\Chennai-MetaSUB\\images\\taxa_distribution\\Chennai_class.png", plot, dpi = 600)
+ggsave("../../figures/Figure_2_B.png", plot, dpi = 600)
+```

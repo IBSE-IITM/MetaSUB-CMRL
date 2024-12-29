@@ -7,6 +7,6 @@
 - [X] TODO: Add RGI AMR analysis code
 - [X] TODO: MAG Phylogenetic tree
 - [X] TODO: Add MAG analysis code
-- [ ] TODO: Add figure generation code
+- [X] TODO: Add figure generation code
 - [ ] TODO: Add dataset folder 
 
