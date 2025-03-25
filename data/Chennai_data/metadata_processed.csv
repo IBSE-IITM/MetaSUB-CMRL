@@ -1,0 +1,48 @@
+Samples,DNA/RNA,sample type(N/P/E),location name,sublocation,select object/sampling place,select surface material,select ground level,Traffic at the sampling location,temperature,date and time,Sampling Date,Month,Year,is_kiosk,is_Rod
+368257968,DNA,E,Washermenpet,Metro,Bannister,Metal,,,,12:37,8/12/2021,Dec,2021,Other,Other
+368273379,DNA,E,Washermenpet,Train,Rod,Metal,,,,12:44,8/12/2021,Dec,2021,Other,Rod
+368281532,DNA,E,Central,Metro,Ticket Counter,Ceramic,,,,12:57,8/12/2021,Dec,2021,Other,Other
+368281511,DNA,E,Central,Metro,Kiosk,Glass,,,,13:00,8/12/2021,Dec,2021,Kiosk,Other
+368281318,DNA,E,Central,Metro,Ticket Counter,Ceramic,,,,13:17,8/12/2021,Dec,2021,Other,Other
+368281369,DNA,E,Egmore,Metro,Ticket Counter,Ceramic,,,,13:47,8/12/2021,Dec,2021,Other,Other
+368257238,DNA,E,Egmore,Metro,Bannister,Metal,,,,13:54,8/12/2021,Dec,2021,Other,Other
+368259600,DNA,E,Egmore,Train,Rod,Metal,,,,14:03,8/12/2021,Dec,2021,Other,Rod
+368281495,DNA,E,Thirumangalam,Metro,Kiosk,Glass,,,,15:04,8/12/2021,Dec,2021,Kiosk,Other
+368281337,DNA,E,Thirumangalam,Metro,Bannister,Metal,,,,15:13,8/12/2021,Dec,2021,Other,Other
+368259989,DNA,E,CMBT,Metro,Ticket Counter,Ceramic,,,,15:35,8/12/2021,Dec,2021,Other,Other
+368258054,DNA,E,CMBT,Metro,Bannister,Metal,,,,15:43,8/12/2021,Dec,2021,Other,Other
+368281482,DNA,E,CMBT,Train,Rod,Metal,,,,15:52,8/12/2021,Dec,2021,Other,Rod
+368281322,DNA,E,Vadapalani,Metro,Kiosk,Glass,,,,16:08,8/12/2021,Dec,2021,Kiosk,Other
+368281370,DNA,E,Alandur,Metro,Ticket Counter,Ceramic,,,,17:57,8/12/2021,Dec,2021,Other,Other
+368281490,DNA,E,Alandur,Metro,Kiosk,Glass,,,,18:05,8/12/2021,Dec,2021,Kiosk,Other
+368258353,DNA,E,saidapet,Metro,Kiosk,Glass,,1 to 10,,10:30,13/01/2022,Jan,2022,Kiosk,Other
+368259710,DNA,E,saidapet,Train,Rod,Metal,,1 to 10,,10:42,13/01/2022,Jan,2022,Other,Rod
+368259764,DNA,E,Teynampet,Metro,Ticket Counter,Ceramic,,1 to 10,,10:51,13/01/2022,Jan,2022,Other,Other
+368258417,DNA,E,Teynampet,Metro,Kiosk,Glass,,1 to 10,,10:54,13/01/2022,Jan,2022,Kiosk,Other
+368253732,DNA,E,Teynampet,Metro,Bannister,Metal,,1 to 10,,10:59,13/01/2022,Jan,2022,Other,Other
+368259707,DNA,E,Central,Metro,Bannister,Metal,,50+,,11:55,13/01/2022,Jan,2022,Other,Other
+368258383,DNA,E,Central,Metro,Ticket Counter,Ceramic,,50+,,12:00,13/01/2022,Jan,2022,Other,Other
+368299257,DNA,E,Central,Metro,Kiosk,Glass,,50+,,12:04,13/01/2022,Jan,2022,Kiosk,Other
+368259760,DNA,E,Central,Metro,Ticket Counter,Ceramic,,50+,,12:12,13/01/2022,Jan,2022,Other,Other
+368259706,DNA,E,Washermenpet,Metro,Ticket Counter,Ceramic,,1 to 10,,11:29,13/01/2022,Jan,2022,Other,Other
+368258369,DNA,E,Washermenpet,Metro,Kiosk,Glass,,1 to 10,,11:33,13/01/2022,Jan,2022,Kiosk,Other
+368299282,DNA,E,Washermenpet,Metro,Bannister,Metal,,1 to 10,,11:37,13/01/2022,Jan,2022,Other,Other
+368258393,DNA,E,Washermenpet,Train,Rod,Metal,,1 to 10,,11:42,13/01/2022,Jan,2022,Other,Rod
+368259770,DNA,E,Egmore,Metro,Ticket Counter,Ceramic,,10 to 20,,12:46,13/01/2022,Jan,2022,Other,Other
+368259717,DNA,E,Egmore,Metro,Kiosk,Glass,,10 to 20,,12:49,13/01/2022,Jan,2022,Kiosk,Other
+368297861,DNA,E,Egmore,Metro,Bannister,Metal,,10 to 20,,12:54,13/01/2022,Jan,2022,Other,Other
+368258431,DNA,E,Thirumangalam,Metro,Kiosk,Glass,,10 to 20,,13:33,13/01/2022,Jan,2022,Kiosk,Other
+368260393,DNA,E,Thirumangalam,Metro,Bannister,Metal,,10 to 20,,13:39,13/01/2022,Jan,2022,Other,Other
+368259737,DNA,E,CMBT,Metro,Ticket Counter,Ceramic,,20 to 30,,13:55,13/01/2022,Jan,2022,Other,Other
+368259701,DNA,E,CMBT,Metro,Kiosk,Glass,,,,13:59,13/01/2022,Jan,2022,Kiosk,Other
+368258345,DNA,E,CMBT,Train,Rod,Metal,,,,14:11,13/01/2022,Jan,2022,Other,Rod
+368258423,DNA,E,Vadapalani,Metro,Kiosk,Glass,,,,14:31,13/01/2022,Jan,2022,Kiosk,Other
+368259698,DNA,E,Airport,Metro,Ticket Counter,Ceramic,,50+,,15:47,13/01/2022,Jan,2022,Other,Other
+368297838,DNA,E,Airport,Metro,Kiosk,Glass,,,,15:55,13/01/2022,Jan,2022,Kiosk,Other
+368258424,DNA,E,Meenambakkam,Metro,Kiosk,Glass,,,,16:22,13/01/2022,Jan,2022,Kiosk,Other
+368259776,DNA,E,Meenambakkam,Train,Rod,Metal,,,,16:33,13/01/2022,Jan,2022,Other,Rod
+368258351,DNA,E,Alandur,Metro,Ticket Counter,Ceramic,,10 to 20,,16:43,13/01/2022,Jan,2022,Other,Other
+368246110,DNA,E,Alandur,Metro,Kiosk,Glass,,,,16:53,13/01/2022,Jan,2022,Kiosk,Other
+368258384,DNA,E,Alandur,Metro,Bannister,Metal,,,,16:59,13/01/2022,Jan,2022,Other,Other
+368259718,DNA,E,Guindy,Metro,Ticket Counter,Ceramic,,20 to 30,,17:11,13/01/2022,Jan,2022,Other,Other
+368297885,DNA,E,Guindy,Metro,Elevator,Metal,,,,17:17,13/01/2022,Jan,2022,Other,Other

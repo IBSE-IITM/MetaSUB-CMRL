@@ -162,7 +162,7 @@ cython_debug/
 #*.json
 #*.png
 code/notebook/*
-data/*
+data/MetaSUB_data
 figures/*
 
 #results/*
