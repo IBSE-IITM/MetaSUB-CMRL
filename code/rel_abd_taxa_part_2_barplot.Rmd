@@ -51,6 +51,5 @@ chennai <- read_csv("../results/relative_abundance/class_with_metadata.csv")
 chennai <- chennai[, -which(names(chennai) == "select object/sampling place")]
 plot = plot_maker_with_order(chennai, 'Class', 'Actinobacteria')
 
-#ggsave("C:\\Users\\yuvar\\lab\\projects\\metasub\\github\\Chennai-MetaSUB\\images\\taxa_distribution\\Chennai_class.png", plot, dpi = 600)
 ggsave("../../figures/Figure_2_B.png", plot, dpi = 600)
 ```

@@ -52,7 +52,7 @@ Figure 4A: Kiosk Valcano plot
 ```{r}
 
 species_data = read.csv("../../results/chennai_kiosk_species_abd_0.001/valcano_species.csv",sep = ",")
-#read.csv("C:\\Users\\yuvar\\lab\\projects\\metasub\\github\\Chennai-MetaSUB\\findings\\kiosk\\results_v2_1\\chennai_kiosk_species_abd_0.001_v2\\valcano_species.csv",sep = ",",check.names = FALSE)
+
 
 pp = valcano_plot(species_data, save_table = FALSE)
 pp
@@ -63,7 +63,6 @@ Figure 4B: Rod Valcano plot
 ```{r}
 
 species_data = read.csv("../../results/chennai_Rod_species_abd_0.001/valcano_species.csv",sep = ",")
-#read.csv("C:\\Users\\yuvar\\lab\\projects\\metasub\\github\\Chennai-MetaSUB\\findings\\kiosk\\results_v2_1\\chennai_kiosk_species_abd_0.001_v2\\valcano_species.csv",sep = ",",check.names = FALSE)
 
 pp = valcano_plot(species_data, save_table = FALSE, y_max = 4)
 pp
