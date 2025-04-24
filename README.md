@@ -16,14 +16,15 @@ This repository contains the analysis code for the Chennai MetaSUB project. Both
 - `code/rel_abd_taxa_part_2_barplot.Rmd`
 
 ### species prevalance plot
-- `code/species_prevalance_plot.R`
+- `code/species_prevalance_plot.Rmd`
 - `results/microbial_signatures/001/species_prevalence.csv`
 
 ### Metagenome-assembled genomes (MAGs) analysis
+Here the results of enrichment analysis from Anvi'o tool is further analysed to extract the COG functionalities that are enriched in Chennai MAGs when compared against reference strain from NCBI.
 - `code/MAG_enrichment_analysis.ipynb`
 - `data/Chennai_data/MAG_enrichment_analysis`
 - `results/MAG_enrichment_analysis`
-Here the results of enrichment analysis from Anvi'o tool is further analysed to extract the COG functionalities that are enriched in Chennai MAGs when compared against reference strain from NCBI. 
+ 
 
 
 ### AMR analysis

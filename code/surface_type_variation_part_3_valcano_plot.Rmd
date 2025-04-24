@@ -51,20 +51,20 @@ valcano_plot = function(data, save_table = FALSE, file_name = "dummy.csv", y_max
 Figure 4A: Kiosk Valcano plot
 ```{r}
 
-species_data = read.csv("../../results/chennai_kiosk_species_abd_0.001/valcano_species.csv",sep = ",")
+species_data = read.csv("../results/chennai_kiosk_species_abd_0.001/valcano_species.csv",sep = ",")
 
 
 pp = valcano_plot(species_data, save_table = FALSE)
 pp
-ggsave( "../../figures/Figure_4A.png" ,pp, dpi = 600 )
+ggsave( "../figures/Figure_4A.png" ,pp, dpi = 600 )
 ```
 Figure 4B: Rod Valcano plot
 
 ```{r}
 
-species_data = read.csv("../../results/chennai_Rod_species_abd_0.001/valcano_species.csv",sep = ",")
+species_data = read.csv("../results/chennai_Rod_species_abd_0.001/valcano_species.csv",sep = ",")
 
 pp = valcano_plot(species_data, save_table = FALSE, y_max = 4)
 pp
-ggsave( "../../figures/Figure_4B.png" ,pp, dpi = 600 )
+ggsave( "../figures/Figure_4B.png" ,pp, dpi = 600 )
 ```

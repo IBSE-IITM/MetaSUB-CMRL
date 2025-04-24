@@ -1,19 +1,24 @@
+```{r}
 library(readr)
 library(dplyr)
 library(ggplot2)
+```
+```{r}
 data <- read.csv("../results/microbial_signatures/001/species_prevalence.csv")
 prevalence <- data$prevalence
 prev = as.data.frame(prevalence)
 core_thresh = 0.97
 sub_core_thresh = 0.8
 periph_thresh = 0.15
+```
+```{r}
 
 n_periph = length( prevalence [prevalence< periph_thresh & prevalence> 0.00001]) # some species have prevalance of 0 after threshold filtering
 n_core = length( prevalence [prevalence > core_thresh])
 n_sub_core =  length( prevalence [prevalence > sub_core_thresh & prevalence < core_thresh] )
+```
 
-
-
+```{r}
 plot <- ggplot(prev, aes(prev$prevalence)) +
   geom_density(color= 'darkblue', fill= 'lightblue', size=1, alpha=0.7) +
   theme_minimal() +
@@ -29,11 +34,12 @@ plot <- ggplot(prev, aes(prev$prevalence)) +
         panel.grid.major = element_blank(),      # Remove major grid lines
         panel.grid.minor = element_blank())      # Remove minor grid lines
 
-
+```
+```{r}
 
 plot
 
 ggsave("../figures/Figure_2_A.png", dpi= 600 ,  width = 5, height = 3)
-
+```
 
 
