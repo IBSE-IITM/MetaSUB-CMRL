@@ -1,5 +1,9 @@
 # MetaSUB-CMRL
+This repository contains the analysis code for the Chennai MetaSUB project. Both R and Python scripts are used for data analysis and plot creation. Please follow the sequence of scripts provided in this README to ensure that the required files are generated for smooth execution.
 
+### Python environment setup
+- Python = 3.11
+- Use `requirments.txt` to install the required pakages. 
 ### Data folder structure
 - Chennai_data : data of Chennai samples 
 - MetaSUB_data.zip : data of MetaSUB (Extract it to folder `MetaSUB_data`)
@@ -23,22 +27,12 @@ Here the results of enrichment analysis from Anvi'o tool is further analysed to 
 
 
 ### AMR analysis
-`code/AMR_analysis.ipynb`
-`data/Chennai_data/AMR`
+- `code/AMR_analysis.ipynb`
+- `data/Chennai_data/AMR`
 
 ### Microbial diversity and composition across various surface types
 - `code/surface_type_variation_part_1_Maaslin2.Rmd`
 - `code/surface_type_variation_part_2.ipynb`
 - `code/surface_type_variation_part_3_valcano_plot.Rmd`
 
-
-## Initial Repo setup
-- [X] TODO: Add Core analysis code
-- [X] TODO: Add diversity analysis code
-- [X] TODO: Add code for differential taxonomic profiles across sample collection objects 
-- [X] TODO: Add RGI AMR analysis code
-- [X] TODO: MAG Phylogenetic tree
-- [X] TODO: Add MAG analysis code
-- [X] TODO: Add figure generation code
-- [X] TODO: Add dataset folder 
 
