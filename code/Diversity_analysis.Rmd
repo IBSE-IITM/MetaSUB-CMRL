@@ -4,6 +4,19 @@ Chennai diversity analysis code
 library(phyloseq)
 library(tidyverse)
 library(ggpubr)
+
+#if (!requireNamespace("remotes", quietly = TRUE)) {
+#  install.packages("remotes")
+#}
+
+# Now, install pairwiseAdonis from the developer's repository
+#remotes::install_github("pmartinezarbizu/pairwiseAdonis/pairwiseAdonis")
+
+# Load the library
+library(pairwiseAdonis)
+ 
+library(vegan)
+
 ```
 
 ```{r}
@@ -67,9 +80,40 @@ print(median_values)
 Beta diversity
 
 ```{r}
-ps_bacteria_new = subset_samples(ps_bacteria, select.object.sampling.place != 'Elevator')
-sel_obj = plot_ordination(ps_bacteria_new, ordinate(ps_bacteria_new, "PCoA", "bray"), color = "select.object.sampling.place") + geom_point(size=5) + stat_ellipse() + theme_classic()
-sel_obj
-ggsave("../figures/Figure_3_B_selection_object_beta_diversity.png", sel_obj, dpi = 600)
 
+ps_bacteria_new = subset_samples(ps_bacteria, select.object.sampling.place != 'Elevator')
+
+bray_dist <- phyloseq::distance(ps_bacteria_new, method = "bray")
+
+meta_df <- data.frame(sample_data(ps_bacteria_new))
+
+pairwise_results <- pairwise.adonis(x = bray_dist, 
+                                    factors = meta_df$select.object.sampling.place, 
+                                    p.adjust.m = "fdr"
+                                    )
+
+print(pairwise_results)
+
+kiosk_comparisons <- pairwise_results %>%
+  filter(str_detect(pairs, "Kiosk"))
+
+caption_text <- kiosk_comparisons %>%
+  mutate(label = paste(pairs, "p.adj =", round(p.adjusted, 3))) %>%
+  pull(label) %>%
+  paste(collapse = "\n") 
+
+final_caption <- paste("Pairwise Comparisons vs. Kiosk:\n", caption_text)
+
+sel_obj <- plot_ordination(ps_bacteria_new, ordinate(ps_bacteria_new, "PCoA", "bray"), color = "select.object.sampling.place") + 
+  geom_point(size=5) + 
+  stat_ellipse() + 
+  theme_classic()
+
+sel_obj_final <- sel_obj + 
+  labs(caption = final_caption) +
+  theme(plot.caption = element_text(hjust = 0, size = 9))
+
+sel_obj_final
+
+ggsave("../figures/Figure_3_B_selection_object_beta_diversity.png", sel_obj_final, dpi = 600)
 ```
