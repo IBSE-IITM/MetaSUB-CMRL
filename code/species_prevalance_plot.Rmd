@@ -98,7 +98,7 @@ superimposed_plot <- ggplot(combined_data, aes(x = prevalence, fill = source, co
 print(superimposed_plot)
 
 ggsave(
-  "../figures/Figure_2_Superimposed.png",
+  "../figures/Figure_2_A.png",
   plot = superimposed_plot,
   dpi = 600,
   width = 7,
@@ -106,7 +106,7 @@ ggsave(
 )
 ggsave(
 
-  "../figures/Figure_2_Superimposed.pdf",
+  "../figures/Figure_2_A.pdf",
   plot = superimposed_plot,
   dpi = 600,
   width = 7,
