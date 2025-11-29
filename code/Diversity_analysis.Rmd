@@ -115,5 +115,14 @@ sel_obj_final <- sel_obj +
 
 sel_obj_final
 
-ggsave("../figures/Figure_3_B_selection_object_beta_diversity.png", sel_obj_final, dpi = 600)
+ggsave("../figures/Figure_3_B.png", sel_obj_final, dpi = 600)
+
+ggsave(
+
+  "../figures/Figure_3_B.pdf",
+  plot = sel_obj_final,
+  dpi = 600,
+  width = 7,
+  height = 5,
+)
 ```

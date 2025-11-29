@@ -1,45 +1,115 @@
+
+
 ```{r}
+# --- 1. Load Libraries ---
 library(readr)
 library(dplyr)
 library(ggplot2)
-```
-```{r}
-data <- read.csv("../results/microbial_signatures/001/species_prevalence.csv")
-prevalence <- data$prevalence
-prev = as.data.frame(prevalence)
-core_thresh = 0.97
-sub_core_thresh = 0.8
-periph_thresh = 0.15
-```
-```{r}
 
-n_periph = length( prevalence [prevalence< periph_thresh & prevalence> 0.00001]) # some species have prevalance of 0 after threshold filtering
-n_core = length( prevalence [prevalence > core_thresh])
-n_sub_core =  length( prevalence [prevalence > sub_core_thresh & prevalence < core_thresh] )
-```
+# --- 2. Define Constants and File Paths ---
+# NOTE: Ensure these file paths are correct for your system.
+chennai_file_path <- "../results/microbial_signatures/001/Chennai_species_prevalence.csv"
+metasub_file_path <- "../results/microbial_signatures/001/core_species_prevalence_all.csv"
 
-```{r}
-plot <- ggplot(prev, aes(prev$prevalence)) +
-  geom_density(color= 'darkblue', fill= 'lightblue', size=1, alpha=0.7) +
+# Prevalence thresholds for vertical lines and annotations
+core_thresh <- 0.97
+sub_core_thresh <- 0.8
+periph_thresh <- 0.15
+
+# Filtering threshold for the MetaSUB dataset
+metasub_presence_threshold <- 0.5
+
+# --- 3. Process Dataset 1 (Chennai) ---
+chennai_data <- read_csv(chennai_file_path)
+
+# Calculate counts for annotations (based on Chennai data)
+n_periph <- sum(chennai_data$prevalence < periph_thresh & chennai_data$prevalence > 0)
+n_core <- sum(chennai_data$prevalence > core_thresh)
+n_sub_core <- sum(chennai_data$prevalence > sub_core_thresh & chennai_data$prevalence < core_thresh)
+
+# Prepare the data frame for plotting, adding a source column
+plot_data_chennai <- data.frame(
+  prevalence = chennai_data$prevalence,
+  source = "Chennai"
+)
+
+# --- 4. Process Dataset 2 (MetaSUB) ---
+metasub_data <- read_csv(metasub_file_path)
+
+# Identify city columns and calculate presence ratio
+city_cols <- setdiff(names(metasub_data), "Species")
+num_cities <- length(city_cols)
+metasub_data$presence_ratio <- rowSums(!is.na(metasub_data[city_cols])) / num_cities
+
+# Filter data based on presence ratio
+filtered_metasub <- metasub_data %>%
+  filter(presence_ratio >= metasub_presence_threshold)
+
+# Calculate the median prevalence for the filtered species
+median_prevalence <- apply(filtered_metasub[city_cols], 1, median, na.rm = TRUE)
+
+# Prepare the data frame for plotting, adding a source column
+plot_data_metasub <- data.frame(
+  prevalence = median_prevalence,
+  source = "MetaSUB"
+)
+
+# --- 5. Combine Data ---
+combined_data <- rbind(plot_data_chennai, plot_data_metasub)
+
+# --- 6. Create the Superimposed Plot ---
+superimposed_plot <- ggplot(combined_data, aes(x = prevalence, fill = source, color = source)) +
+  # Add density layers with transparency
+  geom_density(alpha = 0.6, size = 1) +
+  
+  # Add vertical lines for thresholds
+  geom_vline(xintercept = periph_thresh, color = 'black', linetype = "dashed") +
+  geom_vline(xintercept = sub_core_thresh, color = 'black', linetype = "dashed") +
+  geom_vline(xintercept = core_thresh, color = 'black', linetype = "dashed") +
+  
+  # Add annotations (note: counts are from Chennai data)
+  annotate(geom = 'label', x = 0.6, y = 2.4, label = paste("Sub-Core 80-97%:", n_sub_core), size = 4) +
+  annotate(geom = 'label', x = 0.15, y = 6.0, label = paste("Peripheral < 15%:", n_periph), size = 4) +
+  annotate(geom = 'label', x = 0.9, y = 6.0, label = paste("Core > 97%:", n_core), size = 4) +
+  
+  # Manually set the colors to match your original plots
+  scale_fill_manual(values = c("Chennai" = "lightblue", "MetaSUB" = "#FFB6C1")) +
+  scale_color_manual(values = c("Chennai" = "darkblue", "MetaSUB" = "darkred")) +
+  
+  # Apply theme and labels
   theme_minimal() +
-  xlab('Species Prevalence') +
-  ylab('Density') +
-  geom_vline(xintercept=periph_thresh, color='black') +
-  geom_vline(xintercept=sub_core_thresh, color='black') +
-  geom_vline(xintercept=core_thresh, color='black') +
-  annotate(geom='label', x=0.6, y=2.4, label= paste("Sub-Core 80-97%", n_sub_core), size=5) + #0001:2.4
-  annotate(geom='label', x=0.33, y=6.0, label= paste("Peripheral < 15%",n_periph), size=5) + #0001:4.
-  annotate(geom='label', x=0.85, y=6.0, label= paste("Core > 97%", n_core), size=5) + #0001:3.2
-  theme(axis.title = element_text(size = 18),  # Increase font size here
-        panel.grid.major = element_blank(),      # Remove major grid lines
-        panel.grid.minor = element_blank())      # Remove minor grid lines
+  labs(
+    title = "Species Prevalence",
+    x = "Species Prevalence",
+    y = "Density",
+    fill = "Dataset", # Legend title for fill
+    color = "Dataset"    # Legend title for color
+  ) +
+  theme(
+    axis.title = element_text(size = 14),
+    axis.text = element_text(size = 12),
+    plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    legend.position = "top"
+  )
 
+# --- 7. Display and Save the Plot ---
+print(superimposed_plot)
+
+ggsave(
+  "../figures/Figure_2_A.png",
+  plot = superimposed_plot,
+  dpi = 600,
+  width = 7,
+  height = 5
+)
+ggsave(
+
+  "../figures/Figure_2_A.pdf",
+  plot = superimposed_plot,
+  dpi = 600,
+  width = 7,
+  height = 5,
+)
 ```
-```{r}
-
-plot
-
-ggsave("../figures/Figure_2_A.png", dpi= 600 ,  width = 5, height = 3)
-```
-
-
