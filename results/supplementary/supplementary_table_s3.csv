@@ -1,5 +1,5 @@
-Species Category,Relative abundance > 0.001
-Core,27
-Sub-core,33
-Peripheral,395
-Unique-core,8
+Species Category,Relative abundance > 0.1,Relative abundance > 0.01,Relative abundance > 0.001,Relative abundance > 0.0001
+Core,0,0,0,0
+Sub-core,0,0,0,0
+Peripheral,5,5,5,5
+Unique-core,0,0,0,0
