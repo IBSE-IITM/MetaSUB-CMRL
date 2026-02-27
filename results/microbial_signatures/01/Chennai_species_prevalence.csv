@@ -2,8 +2,8 @@ Species,prevalence
 Pseudomonas stutzeri,1.0
 Micrococcus luteus,0.975609756097561
 Kocuria palustris,0.926829268292683
-Paracoccus sp. AK26,0.6585365853658537
 Cutibacterium acnes,0.6585365853658537
+Paracoccus sp. AK26,0.6585365853658537
 Janibacter indicus,0.5365853658536586
 Paracoccus sanguinis,0.4878048780487805
 Malassezia restricta,0.4634146341463415
@@ -15,48 +15,48 @@ Kytococcus sedentarius,0.2682926829268293
 Staphylococcus arlettae,0.21951219512195122
 Kocuria flava,0.0975609756097561
 Geodermatophilus obscurus,0.0975609756097561
-Acinetobacter schindleri,0.07317073170731707
 Acinetobacter johnsonii,0.07317073170731707
 Pseudomonas mendocina,0.07317073170731707
-Rheinheimera sp. LHK132,0.04878048780487805
-Pseudomonas alcaligenes,0.04878048780487805
-Acinetobacter lwoffii,0.04878048780487805
+Acinetobacter schindleri,0.07317073170731707
+Microbacterium aurum,0.04878048780487805
 Aspergillus oryzae,0.04878048780487805
 Comamonas aquatica,0.04878048780487805
-Corynebacterium ureicelerivorans,0.04878048780487805
-Microbacterium aurum,0.04878048780487805
-Weissella confusa,0.04878048780487805
+Rheinheimera sp. LHK132,0.04878048780487805
 Pseudoxanthomonas suwonensis,0.04878048780487805
+Pseudomonas alcaligenes,0.04878048780487805
+Acinetobacter lwoffii,0.04878048780487805
 Staphylococcus virus Andhra,0.04878048780487805
-Chroococcidiopsis thermalis,0.024390243902439025
+Corynebacterium ureicelerivorans,0.04878048780487805
+Weissella confusa,0.04878048780487805
 Veillonella parvula,0.024390243902439025
-Weissella cibaria,0.024390243902439025
-Streptococcus sanguinis,0.024390243902439025
-Staphylococcus saprophyticus,0.024390243902439025
-Streptococcus mitis,0.024390243902439025
-Dietzia timorensis,0.024390243902439025
-Nocardiopsis dassonvillei,0.024390243902439025
-Corynebacterium sanguinis,0.024390243902439025
-Corynebacterium xerosis,0.024390243902439025
-Mycolicibacterium doricum,0.024390243902439025
+Sphingobium yanoikuyae,0.024390243902439025
 Corynebacterium genitalium,0.024390243902439025
-Corynebacterium minutissimum,0.024390243902439025
+Haemophilus parainfluenzae,0.024390243902439025
 Kocuria indica,0.024390243902439025
-Corynebacterium segmentosum,0.024390243902439025
-Corynebacterium jeikeium,0.024390243902439025
+Corynebacterium xerosis,0.024390243902439025
 Kocuria sp. KD4,0.024390243902439025
-Brevibacterium sp. CS2,0.024390243902439025
-Pseudomonas sihuiensis,0.024390243902439025
+Corynebacterium sanguinis,0.024390243902439025
+Roseomonas mucosa,0.024390243902439025
+Mycolicibacterium doricum,0.024390243902439025
+Massilia oculi,0.024390243902439025
+Chryseobacterium sp. NEB161,0.024390243902439025
+Cloacibacterium normanense,0.024390243902439025
+Corynebacterium minutissimum,0.024390243902439025
+Shewanella sp. FDAARGOS_354,0.024390243902439025
+Pantoea dispersa,0.024390243902439025
+Chroococcidiopsis thermalis,0.024390243902439025
 Klebsiella oxytoca,0.024390243902439025
+Pseudomonas sihuiensis,0.024390243902439025
+Pseudomonas tolaasii,0.024390243902439025
 Pseudomonas sp. phDV1,0.024390243902439025
 Pseudomonas oleovorans,0.024390243902439025
+Dietzia timorensis,0.024390243902439025
 Pseudomonas aeruginosa,0.024390243902439025
-Pseudomonas tolaasii,0.024390243902439025
-Pantoea dispersa,0.024390243902439025
-Sphingobium yanoikuyae,0.024390243902439025
-Shewanella sp. FDAARGOS_354,0.024390243902439025
-Haemophilus parainfluenzae,0.024390243902439025
-Chryseobacterium sp. NEB161,0.024390243902439025
-Massilia oculi,0.024390243902439025
-Roseomonas mucosa,0.024390243902439025
-Cloacibacterium normanense,0.024390243902439025
+Nocardiopsis dassonvillei,0.024390243902439025
+Corynebacterium jeikeium,0.024390243902439025
+Brevibacterium sp. CS2,0.024390243902439025
+Staphylococcus saprophyticus,0.024390243902439025
+Streptococcus mitis,0.024390243902439025
+Streptococcus sanguinis,0.024390243902439025
+Weissella cibaria,0.024390243902439025
+Corynebacterium segmentosum,0.024390243902439025

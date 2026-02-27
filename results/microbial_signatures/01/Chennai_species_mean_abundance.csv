@@ -1,0 +1,51 @@
+Species,Mean Relative Abundance,Label
+Micrococcus luteus,0.05245301092682927,core
+Pseudomonas stutzeri,0.05920259995121951,core
+Acinetobacter lwoffii,0.0008577891219512195,peripheral
+Pseudomonas alcaligenes,0.0014584268292682928,peripheral
+Pseudomonas aeruginosa,0.00032092243902439026,peripheral
+Pseudomonas mendocina,0.002287851,peripheral
+Pseudomonas oleovorans,0.000448299,peripheral
+Pseudomonas sp. phDV1,0.0004582302682926829,peripheral
+Pseudomonas tolaasii,0.0005020922682926829,peripheral
+Pseudomonas sihuiensis,0.0002557769268292683,peripheral
+Klebsiella oxytoca,0.0011637362195121952,peripheral
+Pantoea dispersa,0.0002655180243902439,peripheral
+Pseudoxanthomonas suwonensis,0.0005759916585365854,peripheral
+Shewanella sp. FDAARGOS_354,0.003090926463414634,peripheral
+Rheinheimera sp. LHK132,0.003207420682926829,peripheral
+Haemophilus parainfluenzae,0.00041700921951219513,peripheral
+Sphingobium yanoikuyae,0.0003259023414634146,peripheral
+Roseomonas mucosa,0.0003687123170731707,peripheral
+Comamonas aquatica,0.0010144164634146341,peripheral
+Massilia oculi,0.0025396296585365854,peripheral
+Chryseobacterium sp. NEB161,0.000870054756097561,peripheral
+Cloacibacterium normanense,0.00026243063414634147,peripheral
+Acinetobacter schindleri,0.0008844796829268292,peripheral
+Acinetobacter johnsonii,0.0018893604390243903,peripheral
+Chroococcidiopsis thermalis,0.000334252,peripheral
+Veillonella parvula,0.0003386907317073171,peripheral
+Kocuria flava,0.0011551279024390245,peripheral
+Kocuria sp. KD4,0.0003605960975609756,peripheral
+Kocuria indica,0.00045433397560975614,peripheral
+Microbacterium aurum,0.0008454968292682928,peripheral
+Brevibacterium sp. CS2,0.00027346468292682925,peripheral
+Corynebacterium segmentosum,0.0002711028536585366,peripheral
+Corynebacterium jeikeium,0.00039714548780487804,peripheral
+Corynebacterium ureicelerivorans,0.0009223994634146341,peripheral
+Corynebacterium minutissimum,0.00024853660975609755,peripheral
+Aspergillus oryzae,0.000628073487804878,peripheral
+Corynebacterium sanguinis,0.000455615756097561,peripheral
+Corynebacterium genitalium,0.0003763586341463415,peripheral
+Mycolicibacterium doricum,0.0005057329024390244,peripheral
+Dietzia timorensis,0.0005237642439024391,peripheral
+Nocardiopsis dassonvillei,0.00030193751219512193,peripheral
+Geodermatophilus obscurus,0.0014010292195121951,peripheral
+Staphylococcus saprophyticus,0.00032774507317073174,peripheral
+Streptococcus mitis,0.00025644714634146345,peripheral
+Streptococcus sanguinis,0.00045056468292682927,peripheral
+Weissella confusa,0.001370818243902439,peripheral
+Weissella cibaria,0.0002582453170731707,peripheral
+Corynebacterium xerosis,0.0004153753170731707,peripheral
+Staphylococcus virus Andhra,0.0006361426341463414,peripheral
+Kocuria palustris,0.01721513982926829,sub_core
