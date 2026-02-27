@@ -70,6 +70,8 @@ p
 
 ggsave("../figures/Figure_3_A_selection_object_alpha_diversity.png", p, dpi = 600,  units = "px", width = 4000, height = 3000)
 
+ggsave("../figures/Figure_3_A_selection_object_alpha_diversity.pdf", p, dpi = 600,  units = "px", width = 4000, height = 3000)
+
 ```
 
 ```{r}

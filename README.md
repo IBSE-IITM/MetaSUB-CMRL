@@ -33,8 +33,23 @@ Here the results of enrichment analysis from Anvi'o tool is further analysed to 
 - `data/Chennai_data/AMR`
 
 ### Microbial diversity and composition across various surface types
+- `code/Diversity_analysis.Rmd`
 - `code/surface_type_variation_part_1_Maaslin2.Rmd`
 - `code/surface_type_variation_part_2.ipynb`
 - `code/surface_type_variation_part_3_valcano_plot.Rmd`
 
 
+
+
+
+## removed samples
+
+368297885 
+368259717 
+368258424 
+368258384 
+368281370 
+368257238 
+
+
+sampl_to_remove = ["368297885","368259717", "368258424", "368258384", "368281370", "368257238"]
