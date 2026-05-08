@@ -1,0 +1,1800 @@
+Species,Mean Relative Abundance,Label
+Cutibacterium acnes,0.04165814004878049,core
+Pseudomonas resinovorans,0.00019590168292682927,core
+Pseudomonas citronellolis,0.000280622,core
+Pseudomonas sp. phDV1,0.001141046024390244,core
+Pseudomonas sp. R2A2,0.0008451440975609758,core
+Pseudomonas sp. THAF7b,0.0008347048292682927,core
+Pseudomonas sp. LPH1,0.0006772998536585365,core
+Pseudomonas sp. K2W31S-8,0.00026196334146341466,core
+Pseudomonas sp. PE08,0.00018207526829268293,core
+Pseudomonas sp. CC6-YY-74,0.00019085375609756102,core
+Pseudomonas oryzihabitans,0.002168830048780488,core
+Pseudomonas putida,0.0015512937804878048,core
+Pseudomonas fulva,0.00033372026829268296,core
+Pseudomonas monteilii,0.00027102343902439026,core
+Pseudomonas fluorescens,0.0006397869268292682,core
+Pseudomonas sihuiensis,0.0007947781951219514,core
+Pseudomonas furukawaii,0.00026486853658536585,core
+Pseudomonas oleovorans,0.001222784243902439,core
+Pseudomonas mendocina,0.0057528559756097565,core
+Pseudomonas aeruginosa,0.0028162536341463412,core
+Acinetobacter sp. ACNIH1,0.0023977634146341463,core
+Acinetobacter sp. WCHA55,0.0011654842926829268,core
+Acinetobacter sp. WCHA45,0.0006634012682926829,core
+Acinetobacter sp. SWBY1,0.0009886910975609757,core
+Acinetobacter indicus,0.010390586707317075,core
+Acinetobacter baumannii,0.0025106401707317076,core
+Acinetobacter pittii,0.0003912941463414635,core
+Pseudomonas alcaliphila,0.0005697816585365853,core
+Acinetobacter schindleri,0.0047184015853658536,core
+Acinetobacter tandoii,0.0011228047560975611,core
+Acinetobacter haemolyticus,0.0010265100243902437,core
+Acinetobacter towneri,0.0021144380243902443,core
+Moraxella osloensis,0.01194634387804878,core
+Pseudomonas stutzeri,0.05920259995121951,core
+Pseudomonas balearica,0.0007725844878048781,core
+Pseudomonas alcaligenes,0.005571010219512194,core
+Acinetobacter lwoffii,0.001657546512195122,core
+Acinetobacter junii,0.00974651368292683,core
+Pseudomonas chlororaphis,0.0003103252926829268,core
+Pseudomonas psychrotolerans,0.0002428498536585366,core
+Lysobacter lycopersici,0.0005617654146341463,core
+Lysobacter capsici,0.0003849440975609756,core
+Lysobacter alkalisoli,0.00043988634146341463,core
+Lysobacter gummosus,0.00027608041463414635,core
+Luteimonas sp. YGD11-2,0.001606668463414634,core
+Luteimonas sp. Gr-4,0.0011120173902439024,core
+Luteimonas sp. 100111,0.0008476810243902439,core
+Luteimonas sp. JM171,0.000423325512195122,core
+Luteimonas yindakuii,0.0004892210731707316,core
+Pseudoxanthomonas suwonensis,0.0026412915609756098,core
+Pseudoxanthomonas spadix,0.0003631430487804878,core
+Thermomonas sp. SY21,0.0016173373170731708,core
+Thermomonas sp. HDW16,0.0008766191219512196,core
+Arenimonas daejeonensis,0.0005539038292682927,core
+Aeromonas caviae,0.0014578553658536587,core
+Lysobacter sp. TY2-98,0.0005749775853658536,core
+Lysobacter maris,0.0005678400487804878,core
+Lysobacter antibioticus,0.0003901456341463415,core
+Lysobacter soli,0.0006398517317073171,core
+Pseudomonas oryzae,0.00026685448780487805,core
+Pseudomonas saudiphocaensis,0.00017583121951219511,core
+Klebsiella pneumoniae,0.0009791064390243902,core
+Enterobacter cloacae,0.0009273821951219511,core
+Escherichia coli,0.0013239890975609756,core
+Pantoea dispersa,0.001130441268292683,core
+Stenotrophomonas maltophilia,0.0027891003902439024,core
+Pseudomonas otitidis,0.00031257156097560975,core
+Stenotrophomonas acidaminiphila,0.0011487399024390245,core
+Stenotrophomonas sp. LM091,0.00026208234146341463,core
+Xanthomonas sacchari,0.0003875071707317073,core
+Xanthomonas campestris,0.0005275899512195123,core
+Xanthomonas translucens,0.00042214197560975613,core
+Xanthomonas hyacinthi,0.00022005197560975607,core
+Lysobacter oculi,0.0013947809024390245,core
+Lysobacter enzymogenes,0.0008108079512195121,core
+Stenotrophomonas rhizophila,0.0007741971707317072,core
+Aeromonas hydrophila,0.0004746645121951219,core
+Acinetobacter johnsonii,0.005031483536585366,core
+Deinococcus soli Cha et al. 2016,0.0005401910975609756,core
+Actinomyces sp. oral taxon 414,0.000583395756097561,core
+Actinomyces sp. oral taxon 897,0.00030110075609756097,core
+Actinomyces viscosus,0.0003943400975609756,core
+Actinomyces radicidentis,0.0006148472926829269,core
+Schaalia odontolytica,0.0007788271463414634,core
+Pseudonocardia sp. Gen01,0.0008138084390243903,core
+Pseudonocardia sp. AL041005-10,0.0006281723902439024,core
+Pseudonocardia sp. HH130630-07,0.0006258202682926829,core
+Pseudonocardia sp. HH130629-09,0.000374442756097561,core
+Pseudonocardia autotrophica,0.0005669474146341464,core
+Pseudonocardia dioxanivorans,0.00047034639024390247,core
+Amycolatopsis mediterranei,0.0003449448048780488,core
+Amycolatopsis methanolica,0.00036446109756097563,core
+Saccharopolyspora sp. ASAGF58,0.0004243162926829268,core
+Saccharopolyspora erythraea,0.0005857753658536586,core
+Streptomyces albus,0.0003958141951219511,core
+Streptomyces venezuelae,0.0008973160731707318,core
+Streptomyces sp. TLI_053,0.0002938594878048781,core
+Tsukamurella tyrosinosolvens,0.00035818707317073167,core
+Dietzia timorensis,0.0021444713902439025,core
+Dietzia psychralcaliphila,0.0007586811463414636,core
+Rhodococcus sp. PBTS 1,0.000498677731707317,core
+Rhodococcus ruber,0.0007965507073170732,core
+Rhodococcus opacus,0.0002958343902439025,core
+Rhodococcus rhodochrous,0.00039831902439024395,core
+Nocardia brasiliensis,0.0003646293414634146,core
+Saccharothrix syringae,0.00038745085365853656,core
+Nocardia cyriacigeorgica,0.0003397010731707317,core
+Gordonia terrae,0.002191467707317073,core
+Gordonia sp. JH63,0.001588910512195122,core
+Gordonia sp. KTR9,0.0003253992926829268,core
+Gordonia bronchialis,0.0004863748780487806,core
+Gordonia iterans,0.000246127756097561,core
+Gordonia polyisoprenivorans,0.0003111021463414634,core
+Tsukamurella paurometabola,0.0003297285609756098,core
+Nocardia farcinica,0.000373233731707317,core
+Chroococcidiopsis thermalis,0.0033840503170731707,core
+Kutzneria albida,0.00027757282926829267,core
+Nocardiopsis dassonvillei,0.0008763776585365853,core
+Staphylococcus saprophyticus,0.002090217951219512,core
+Staphylococcus haemolyticus,0.0011182376829268292,core
+Staphylococcus cohnii,0.001043743829268293,core
+Staphylococcus nepalensis,0.0006171869268292683,core
+Exiguobacterium sp. AT1b,0.0009977664146341462,core
+Exiguobacterium mexicanum,0.0014254422439024391,core
+Weissella confusa,0.0018397500975609756,core
+Aerococcus viridans,0.001149039756097561,core
+Aerococcus urinaeequi,0.0005574959512195122,core
+Faecalibacterium prausnitzii,0.001076531731707317,core
+Deinococcus sp. NW-56,0.002066228731707317,core
+Deinococcus wulumuqiensis,0.0011206993414634146,core
+Deinococcus ficus,0.0013365336829268294,core
+Deinococcus gobiensis,0.00038929829268292683,core
+Deinococcus actinosclerus,0.000605060487804878,core
+Staphylococcus arlettae,0.0077414197560975615,core
+Staphylococcus capitis,0.0013528366341463416,core
+Staphylococcus hominis,0.003283389073170732,core
+Staphylococcus epidermidis,0.0022240731707317074,core
+Nocardiopsis alba,0.00025124807317073177,core
+Nonomuraea sp. ATCC 55076,0.0003930561707317073,core
+Actinomadura sp. WMMB499,0.00029322046341463416,core
+Geodermatophilus obscurus,0.0037822563414634147,core
+Blastococcus saxobsidens,0.001574326243902439,core
+Modestobacter marinus,0.0012679976829268293,core
+Epidermidibacterium keratini,0.0008923298780487804,core
+Lentzea guizhouensis,0.00029507492682926827,core
+Jiangella alkaliphila,0.00032336456097560974,core
+Kineococcus radiotolerans,0.0003476221219512195,core
+Rubrobacter sp. SCSIO 52915,0.0003806821707317073,core
+Rubrobacter sp. SCSIO 52909,0.00042851158536585357,core
+Rubrobacter xylanophilus,0.00027313921951219514,core
+Baekduia soli,0.00034868858536585366,core
+Iamiaceae bacterium SCSIO 58843,0.0005777025853658537,core
+Conexibacter woesei,0.00038561636585365854,core
+Nakamurella multipartita,0.000378171243902439,core
+Aeromonas veronii,0.0003248669756097561,core
+Aeromonas media,0.00023152536585365852,core
+Shewanella sp. ANA-3,0.0011371958048780487,core
+Skermanella pratensis,0.001343545756097561,core
+Acidovorax sp. 1608163,0.0006182896829268293,core
+Acidovorax sp. KKS102,0.0006338943658536585,core
+Acidovorax sp. RAC01,0.0002973219756097561,core
+Acidovorax carolinensis,0.00031067712195121956,core
+Acidovorax avenae,0.00028005263414634143,core
+Comamonas aquatica,0.003321055414634147,core
+Comamonas testosteroni,0.00034222570731707317,core
+Hydrogenophaga sp. PBC,0.0004047906829268292,core
+Hydrogenophaga sp. NH-16,0.000381123,core
+Hydrogenophaga sp. BA0156,0.0004633250487804878,core
+Hydrogenophaga pseudoflava,0.0003566804146341464,core
+Variovorax paradoxus,0.0007636365853658536,core
+Ottowia oryzae,0.0003876407317073171,core
+Ramlibacter tataouinensis,0.0007053316097560976,core
+Azospirillum brasilense,0.00044021656097560977,core
+Roseomonas gilardii,0.0007260349268292682,core
+Roseomonas mucosa,0.000984148048780488,core
+Phenylobacterium zucineum,0.000505402756097561,core
+Novosphingobium sp. P6W,0.000356330243902439,core
+Novosphingobium resinovorum,0.0005731741463414634,core
+Porphyrobacter sp. YT40,0.0006151990731707316,core
+Erythrobacter flavus,0.0006470689512195122,core
+Altererythrobacter sp. NS1,0.0007221928536585366,core
+Altererythrobacter sp. TH136,0.0005064900243902439,core
+Altererythrobacter dongtanensis,0.0005214361463414634,core
+Alicycliphilus denitrificans,0.00032862221951219514,core
+Brevundimonas sp. SGAir0440,0.0006211947804878049,core
+Brevundimonas sp. GW460-12-10-14-LB2,0.0003159320243902439,core
+Brevundimonas sp. MF30-B,0.0006495517560975609,core
+Brevundimonas sp. LM2,0.000488129,core
+Brevundimonas diminuta,0.0008410016341463415,core
+Brevundimonas naejangsanensis,0.001152233512195122,core
+Brevundimonas mediterranea,0.000660729243902439,core
+Brevundimonas vancanneytii,0.0003220415365853659,core
+Brevundimonas sp. M20,0.0006832050731707316,core
+Novosphingobium sp. THN1,0.0003880418536585366,core
+Burkholderia gladioli,0.0002860059756097561,core
+Cupriavidus pauculus,0.00022360068292682928,core
+Flavobacterium haoranii,0.00023304741463414633,core
+Empedobacter brevis,0.000679436,core
+Cloacibacterium normanense,0.0023853708536585366,core
+Sphingobacterium daejeonense,0.00023340443902439024,core
+Gemmatirosa kalamazoonesis,0.0004703991463414635,core
+Planctomycetes bacterium ETA_A1,0.0003358122926829268,core
+Malassezia restricta,0.011222893048780488,core
+Aspergillus fumigatus,0.001950681707317073,core
+Aspergillus oryzae,0.002660609585365854,core
+Colletotrichum higginsianum,0.000273317,core
+Thermothielavioides terrestris,0.00024307029268292685,core
+Thermothelomyces thermophilus,0.00020201187804878048,core
+Zymoseptoria tritici,0.00034863629268292687,core
+Thalassiosira pseudonana,0.0020491080487804883,core
+Phaeodactylum tricornutum,0.00038570504878048775,core
+Chryseobacterium haifense,0.0005404174634146342,core
+Chryseobacterium taklimakanense,0.0012029273902439026,core
+Chryseobacterium sp. F5649,0.0006259343414634147,core
+Chryseobacterium sp. H6466,0.0006566001951219513,core
+Cupriavidus necator,0.00019189385365853657,core
+Lautropia mirabilis,0.0004944411707317073,core
+Massilia oculi,0.0039052519756097555,core
+Massilia sp. WG5,0.0005055979268292683,core
+Massilia putida,0.000373173243902439,core
+Duganella sp. GN2-R2,0.00037933975609756094,core
+Achromobacter xylosoxidans,0.0006319071707317073,core
+Cupriavidus taiwanensis,0.00046270812195121956,core
+Achromobacter spanius,0.0002904851219512195,core
+Sphaerotilus natans,0.0005255613414634146,core
+Rubrivivax gelatinosus,0.0004702175853658537,core
+Rhizobacter gummiphilus,0.00046906619512195123,core
+Thauera sp. MZ1T,0.0011005246341463416,core
+Thauera humireducens,0.0004227486585365854,core
+Corallococcus coralloides,0.0006217028536585365,core
+Sorangium cellulosum,0.0009257225609756097,core
+Aquabacterium olei,0.0005958499512195122,core
+Sphingopyxis macrogoltabida,0.00044541319512195123,core
+Sphingopyxis sp. EG6,0.00031535868292682925,core
+Sphingomonas panacis,0.00031687265853658534,core
+Rhodobacter sphaeroides,0.001512971731707317,core
+Rhodobacter blasticus,0.0005545788536585366,core
+Rhodobacter capsulatus,0.00040038563414634135,core
+Rhodobacteraceae bacterium QY30,0.0004195304390243902,core
+Rhodobacteraceae bacterium,0.00038865826829268294,core
+Haematobacter massiliensis,0.0010999276585365854,core
+Celeribacter indicus,0.0003557150975609756,core
+Tabrizicola piscis,0.0004607210731707317,core
+Pannonibacter phragmitetus,0.0006713514878048779,core
+Defluviimonas alba,0.0006440698536585366,core
+Paraoceanicella profunda,0.00034955,core
+Rhizobium sp. WL3,0.0006300353414634147,core
+Rhizobium leguminosarum,0.0006009210975609757,core
+Rhizobium flavum,0.0004647030731707317,core
+Agrobacterium sp. MA01,0.00020102875609756099,core
+Rhodobacter sp. CZR27,0.0005761417073170731,core
+Rhodobacter sp. LPB0142,0.0006304370243902438,core
+Paracoccus kondratievae,0.0007859782926829267,core
+Paracoccus aminophilus,0.0006866539756097561,core
+Shewanella putrefaciens,0.0011933801219512197,core
+Rheinheimera sp. LHK132,0.005446181146341463,core
+Halomonas hydrothermalis,0.0006694749512195122,core
+Paracoccus sp. AK26,0.013989802292682927,core
+Paracoccus sp. Arc7-R13,0.008880352536585364,core
+Paracoccus sp. 2251,0.0024437764878048785,core
+Paracoccus sp. BM15,0.0009271193902439024,core
+Agrobacterium tumefaciens,0.0009806650487804878,core
+Paracoccus sp. SC2-6,0.001027852463414634,core
+Paracoccus yeei,0.005351905317073171,core
+Paracoccus contaminans,0.0033147831219512195,core
+Paracoccus zhejiangensis,0.0023487323658536586,core
+Paracoccus aminovorans,0.0016266349756097565,core
+Paracoccus pantotrophus,0.0015253103170731709,core
+Paracoccus denitrificans,0.001395171536585366,core
+Paracoccus jeotgali,0.0013829150975609758,core
+Paracoccus sanguinis,0.009676709853658537,core
+Sinorhizobium fredii,0.00033515226829268296,core
+Ensifer adhaerens,0.000532475,core
+Shinella sp. HZN7,0.0005343133170731708,core
+Sphingomonas sp. IC081,0.0004955605609756097,core
+Sphingomonas sp. LK11,0.00038075358536585367,core
+Sphingomonas sp. AAP5,0.000405136756097561,core
+Sphingomonas sp. FARSPH,0.00048116195121951214,core
+Sphingomonas sp. PAMC26645,0.00033486056097560974,core
+Sphingomonas sp. LMO-1,0.00044139717073170726,core
+Sphingomonas sp. MM-1,0.0003698989512195122,core
+Sphingobium sp. PAMC28499,0.00028043295121951223,core
+Sphingomonas sp. XS-10,0.0003536409268292683,core
+Sphingomonas paucimobilis,0.0003388843170731707,core
+Sphingomonas ginsengisoli An et al. 2013,0.0010723448048780486,core
+Sphingomonas melonis,0.000361292243902439,core
+Sphingomonas taxi,0.00042309241463414627,core
+Sphingomonas sanxanigenens,0.00042302624390243895,core
+Sphingomonas hengshuiensis,0.00033826078048780487,core
+Sphingomonas insulae,0.00034780534146341464,core
+Sphingomonas koreensis,0.00040294282926829264,core
+Dietzia lutea,0.0012561124146341462,core
+Sphingobium sp. YG1,0.0005717179024390243,core
+Ochrobactrum anthropi,0.0002940739024390244,core
+Bradyrhizobium sp. SK17,0.0002456644634146341,core
+Bradyrhizobium sp. 6(2017),0.0002128394146341463,core
+Bosea sp. RAC05,0.0003199777073170732,core
+Bosea sp. Tri-49,0.0004251004146341464,core
+Bosea sp. F3-2,0.0003064570731707317,core
+Rhodopseudomonas palustris,0.0006629958536585366,core
+Methylobacterium sp. 17Sr1-43,0.0006040481951219513,core
+Sphingobium yanoikuyae,0.0021915031951219507,core
+Methylobacterium sp. 4-46,0.00036572063414634144,core
+Methylobacterium brachiatum,0.0002852924390243902,core
+Methylobacterium durans,0.0003227887804878049,core
+Methylobacterium aquaticum,0.0002938741951219512,core
+Methylobacterium nodulans,0.0003074134634146341,core
+Methylorubrum populi,0.0006043692195121951,core
+Methylorubrum extorquens,0.00026857168292682924,core
+Microvirga ossetica,0.0006557635609756097,core
+Methylobacterium sp. 17Sr1-1,0.00026252436585365855,core
+Dietzia sp. oral taxon 368,0.0017224779512195127,core
+Erythrobacter litoralis,0.0005077582926829268,core
+Microbacterium oleivorans,0.0006846632195121952,core
+Nocardioides sp. dk884,0.0009871057560975611,core
+Nocardioides sp. S-1144,0.001183439,core
+Nocardioides sp. 603,0.0009513140975609756,core
+Luteipulveratus mongoliensis,0.0004515412195121951,core
+Nocardioides sp. 78,0.0009703090975609757,core
+Nocardioides sp. SB3-45,0.000822479975609756,core
+Nocardioides sp. JQ2195,0.0007248191219512195,core
+Nocardioides sp. KUDC 5002,0.0009269970975609756,core
+Corynebacterium marinum,0.0002462045121951219,core
+Corynebacterium nuruki,0.0002983439756097561,core
+Nocardioides sp. HDW12A,0.000997635512195122,core
+Nocardioides sp. dk3136,0.0007248074146341463,core
+Corynebacterium halotolerans,0.00030817102439024394,core
+Corynebacterium vitaeruminis,0.0003720708780487805,core
+Corynebacterium efficiens,0.0003896443658536585,core
+Corynebacterium maris,0.00023928202439024392,core
+Nocardioides sp. HY056,0.00041611453658536586,core
+Nocardioides seonyuensis,0.0015786654878048778,core
+Corynebacterium doosanense,0.00027996634146341465,core
+Glutamicibacter creatinolyticus,0.0002954154146341464,core
+Corynebacterium frankenforstense,0.00027694204878048775,core
+Corynebacterium glyciniphilum,0.0002725872195121951,core
+Corynebacterium humireducens,0.00037404136585365854,core
+Corynebacterium urealyticum,0.0003301722195121951,core
+Corynebacterium timonense,0.000653553975609756,core
+Nocardioides sp. HDW12B,0.0014599885609756099,core
+Corynebacterium riegelii,0.0004384206097560976,core
+Nocardioides sp. R-3366,0.0012463451951219512,core
+Dermacoccus nishinomiyaensis,0.000859189756097561,core
+Mycolicibacterium aurum,0.0004079210487804878,core
+Mycolicibacterium phocaicum,0.00038722085365853657,core
+Dermabacter vaginalis,0.00026062758536585365,core
+Microlunatus phosphovorus,0.0006272656585365853,core
+Brevibacterium sp. CS2,0.003771512975609756,core
+Brevibacterium sp. YB235,0.0008043800243902441,core
+Brevibacterium sp. WO024,0.000637549780487805,core
+Serinicoccus profundi,0.0023915690731707317,core
+Brevibacterium sp. 'Marine',0.0003603144390243902,core
+Auraticoccus monumenti,0.0004892319512195121,core
+Brevibacterium sp. o2,0.00032774614634146343,core
+Brevibacterium linens,0.0013951008048780488,core
+Brevibacterium luteolum,0.0013688887804878048,core
+Raineyella sp. CBA3103,0.00041753748780487803,core
+Brevibacterium aurantiacum,0.0006010289024390244,core
+Georgenia sp. Z294,0.00046903780487804876,core
+Brevibacterium siliguriense,0.00022510707317073168,core
+Nocardioides sp. zg-579,0.0013482281951219513,core
+Brevibacterium sandarakinum,0.00031711568292682927,core
+Janibacter melonis,0.004873370048780488,core
+Janibacter limosus,0.003028853487804878,core
+Janibacter indicus,0.013276623048780488,core
+Kytococcus sedentarius,0.008625662292682927,core
+Sinomonas atrocyanea,0.0003133738780487805,core
+Nesterenkonia sp. NBAIMH1,0.0002759519268292683,core
+Nocardioides sp. JS614,0.0013558748048780487,core
+Corynebacterium stationis,0.00031461809756097564,core
+Nocardioides euryhalodurans,0.0011905259024390246,core
+Corynebacterium glaucum,0.0007256738780487804,core
+Corynebacterium sanguinis,0.003034706536585366,core
+Corynebacterium minutissimum,0.0021668381707317073,core
+Corynebacterium sp. 2019,0.00018529551219512196,core
+Corynebacterium sp. 2183,0.00020593724390243902,core
+Corynebacterium sp. 2184,0.0003691881463414634,core
+Kocuria palustris,0.017640228756097564,core
+Corynebacterium simulans,0.0008603985853658537,core
+Corynebacterium striatum,0.0007870563414634146,core
+Kocuria flava,0.004723811536585366,core
+Corynebacterium ureicelerivorans,0.004168371609756098,core
+Corynebacterium jeikeium,0.003437117902439025,core
+Kocuria sp. BT304,0.000559156512195122,core
+Corynebacterium segmentosum,0.003691933512195122,core
+Kocuria sp. KD4,0.00158207556097561,core
+Kocuria rosea,0.0014598755365853658,core
+Kocuria rhizophila,0.0004860429024390244,core
+Kocuria turfanensis,0.0014403576829268294,core
+Kocuria indica,0.0014421169512195125,core
+Arthrobacter sp. YC-RL1,0.0004629031219512195,core
+Isoptericola variabilis,0.00031854458536585364,core
+Isoptericola dokdonensis,0.00031804082926829266,core
+Haloactinobacterium sp. HY164,0.0003252368048780488,core
+Beutenbergia cavernae,0.00029870078048780486,core
+Miniimonas sp. S16,0.0005286470487804878,core
+Georgenia sp. ZLJ0423,0.0003432038780487805,core
+Cellulosimicrobium cellulans,0.00039874753658536584,core
+Micrococcus sp. KBS0714,0.0017718054634146341,core
+Corynebacterium aurimucosum,0.001042136243902439,core
+Micrococcus luteus,0.05257689868292684,core
+Cellulomonas sp. PSBB021,0.0004045372439024391,core
+Nocardioides dokdonensis,0.0011115965853658535,core
+Nocardioides daphniae,0.0012383391219512195,core
+Cellulomonas sp. Y8,0.000607438243902439,core
+Nocardioides humi,0.0010232388780487805,core
+Corynebacterium mycetoides,0.0010664635609756096,core
+Corynebacterium variabile,0.0012981784390243905,core
+Cellulomonas sp. JZ18,0.0004069407560975609,core
+Rothia mucilaginosa,0.0012666590731707317,core
+Cellulomonas sp. H30R-01,0.00040804639024390237,core
+Cellulomonas flavigena,0.00037526280487804877,core
+Aeromicrobium choanae,0.0007920068292682926,core
+Brachybacterium avium,0.0012946036585365854,core
+Aeromicrobium erythreum,0.0004198383902439024,core
+Micropruina glycogenica,0.0015844684146341466,core
+Marmoricola scoriae,0.0010232653170731707,core
+Friedmanniella sagamiharensis,0.000682885219512195,core
+Friedmanniella luteola,0.0005372385121951219,core
+Corynebacterium genitalium,0.001475332024390244,core
+Pimelobacter simplex,0.0007032987317073171,core
+Corynebacterium imitans,0.0007587506097560976,core
+Kribbella flavida,0.00038111499999999996,core
+Corynebacterium resistens,0.00046055321951219514,core
+Corynebacterium xerosis,0.0018497744146341462,core
+Corynebacterium flavescens,0.0002334343170731707,core
+Corynebacterium singulare,0.0010967162926829267,core
+Corynebacterium casei,0.0006281980487804878,core
+Mycolicibacterium gilvum,0.000488590024390244,core
+Nocardioides sp. CF8,0.0014329895853658536,core
+Brachybacterium ginsengisoli,0.0024489280975609753,core
+Microbacterium sp. 10M-3C3,0.0005784269024390244,core
+Microbacterium sp. No. 7,0.0008069582926829267,core
+Tetrasphaera sp. HKS02,0.0005926060731707318,core
+Brachybacterium vulturis,0.0014920740000000001,core
+Arsenicicoccus sp. oral taxon 190,0.0008192603414634147,core
+Cutibacterium granulosum,0.0022154498048780487,core
+Cutibacterium avidum,0.0004978143658536585,core
+Tessaracoccus sp. T2.5-30,0.0026504363902439027,core
+Tessaracoccus flavus,0.0017272116585365855,core
+Tessaracoccus flavescens,0.0009830571219512194,core
+Tessaracoccus aquimaris,0.0005573148536585365,core
+Tessaracoccus timonensis,0.0003846101951219513,core
+Propioniciclava sp. HDW11,0.0032883642195121947,core
+Acidipropionibacterium acidipropionici,0.0004195461463414634,core
+Intrasporangium calvum,0.0008049750487804879,core
+Acidipropionibacterium jensenii,0.0003513683658536585,core
+Phycicoccus dokdonensis,0.0008370028780487805,core
+Microbacterium sp. ABRD_28,0.001020709243902439,core
+Microbacterium sp. LKL04,0.0010287205365853659,core
+Agromyces flavus,0.0004713135365853659,core
+Microbacterium sp. PM5,0.0005030638048780487,core
+Microbacterium oxydans,0.0004358501219512195,core
+Microbacterium hominis,0.0006192356097560976,core
+Microbacterium foliorum,0.0006905118536585365,core
+Microbacterium chocolatum,0.0009705278536585364,core
+Microbacterium aurum,0.003311315170731707,core
+Microbacterium testaceum,0.00043051307317073167,core
+Microbacterium sediminis,0.0005211792195121952,core
+Microbacterium lemovicicum,0.00043005909756097557,core
+Phycicoccus sp. HDW14,0.001714134,core
+Microbacterium sp. XT11,0.00031576856097560973,core
+Microbacterium sp. BH-3-3-3,0.0004245243658536585,core
+Microbacterium protaetiae,0.00031706460975609754,core
+Microbacterium pygmaeum,0.0004033244878048781,core
+Microbacterium sp. RG1,0.0005085065609756099,core
+Agrococcus carbonis,0.0011848036097560975,core
+Agrococcus sp. SGAir0287,0.0003447449756097561,core
+Agrococcus jejuensis,0.000523033731707317,core
+Microbacterium sp. 4R-513,0.0005976325853658536,core
+Microbacterium oryzae,0.00036035763414634146,core
+Ornithinimicrobium flavum,0.0032669603414634146,core
+Leifsonia xyli,0.00034058431707317073,core
+Georgenia sp. Z443,0.00037047302439024396,core
+Mycolicibacterium doricum,0.0011278555121951217,core
+Propionibacterium freudenreichii,0.00040308160975609757,core
+Brachybacterium sp. SGAir0954,0.0026939615609756096,core
+Mycolicibacterium duvalii,0.00048112000000000003,core
+Mycolicibacterium vaccae,0.00023841834146341465,core
+Ornithinimicrobium sp. AMA3305,0.0016504221951219515,core
+Serinicoccus marinus,0.0017003889268292682,core
+Serinicoccus chungangensis,0.0015832064390243904,core
+Serinicoccus sp. W204,0.0008117239024390244,core
+Microterricola viridarii,0.00034277600000000004,core
+Serinicoccus sp. JLT9,0.0012531518292682928,core
+Mycolicibacterium parafortuitum,0.0002520420487804878,core
+Mycolicibacterium psychrotolerans,0.0002535881463414634,core
+Mycolicibacterium vanbaalenii,0.0002769739756097561,core
+Pseudopropionibacterium propionicum,0.000427628512195122,core
+Ornithinimicrobium sp. H23M54,0.0006362813170731707,core
+Clavibacter michiganensis,0.0007131008780487804,core
+Ornithinimicrobium sp. HY006,0.0012620983902439024,core
+Brachybacterium sp. P6-10-X1,0.0021358246341463415,core
+Brachybacterium faecium,0.0026448674146341464,core
+Brachybacterium saurashtrense,0.0039725340975609764,core
+Proteus vulgaris,4.947390243902439e-06,peripheral
+Pectobacterium parmentieri,8.804463414634146e-06,peripheral
+Lysobacter sp. HDW10,6.764439024390243e-06,peripheral
+Pseudomonas extremorientalis,2.9221707317073174e-06,peripheral
+Zobellella denitrificans,8.213121951219511e-06,peripheral
+Pseudomonas xinjiangensis,3.203712195121951e-05,peripheral
+Pectobacterium polaris,6.301097560975609e-06,peripheral
+Rahnella aquatilis,8.481682926829268e-06,peripheral
+Pseudomonas cremoricolorata,3.456682926829268e-06,peripheral
+Pseudomonas cedrina,3.2069512195121955e-06,peripheral
+Pseudomonas rhizosphaerae,8.859585365853658e-06,peripheral
+Pseudomonas frederiksbergensis,6.990609756097561e-06,peripheral
+Rahnella sp. ERMR1:05,5.522390243902439e-06,peripheral
+Stenotrophomonas sp. ASS1,1.602619512195122e-05,peripheral
+Oceanimonas sp. GK1,2.4950487804878048e-06,peripheral
+Pseudomonas graminis,2.8288536585365856e-06,peripheral
+Pseudomonas pelagia,6.848585365853658e-06,peripheral
+Pseudomonas litoralis,1.7323951219512195e-05,peripheral
+Pectobacterium odoriferum,2.4504146341463413e-06,peripheral
+Pseudolysobacter antarcticus,5.229926829268293e-06,peripheral
+Pseudomonas cichorii,2.5664341463414636e-05,peripheral
+Pectobacterium versatile,3.325585365853658e-06,peripheral
+Proteus mirabilis,8.397365853658537e-06,peripheral
+Morganella morganii,8.165463414634148e-06,peripheral
+Arsenophonus nasoniae,4.888170731707317e-06,peripheral
+Plesiomonas shigelloides,9.092756097560975e-06,peripheral
+Providencia stuartii,3.545878048780488e-06,peripheral
+Aeromonas sp. CA23,2.4788780487804876e-06,peripheral
+Dickeya fangzhongdai,2.4725853658536584e-06,peripheral
+Pseudomonas syringae group genomosp. 3,2.8645121951219513e-06,peripheral
+Aeromonas dhakensis,4.522939024390244e-05,peripheral
+Pseudomonas viridiflava,9.546731707317073e-06,peripheral
+Dickeya zeae,3.84909756097561e-06,peripheral
+Pseudomonas lundensis,7.590756097560975e-06,peripheral
+Xanthomonas axonopodis,6.907658536585366e-06,peripheral
+Pseudomonas taetrolens,4.1356097560975605e-06,peripheral
+Pseudomonas asturiensis,2.4578536585365852e-06,peripheral
+Pseudomonas fragi,7.179121951219512e-06,peripheral
+Xanthomonas hortorum,6.291780487804878e-06,peripheral
+Pseudomonas extremaustralis,6.4696097560975605e-06,peripheral
+Aeromonas schubertii,2.903756097560976e-06,peripheral
+Xanthomonas cassavae,2.4084682926829266e-05,peripheral
+Pseudomonas umsongensis,3.089268292682927e-06,peripheral
+Psychrobacter sp. G,6.865756097560975e-06,peripheral
+Pseudomonas moraviensis,9.366560975609757e-06,peripheral
+Pseudescherichia vulneris,5.881658536585366e-06,peripheral
+Kosakonia sp. CCTCC M2018092,8.543365853658537e-06,peripheral
+Kosakonia sacchari,1.2528634146341462e-05,peripheral
+Cronobacter dublinensis,2.330960975609756e-05,peripheral
+Ahniella affigens,5.018585365853659e-06,peripheral
+Moraxella catarrhalis,0.00011593431707317073,peripheral
+Psychrobacter arcticus,8.714878048780489e-06,peripheral
+Psychrobacter urativorans,4.391682926829268e-06,peripheral
+Cronobacter malonaticus,1.7525439024390243e-05,peripheral
+Citrobacter rodentium,4.4423414634146345e-06,peripheral
+Psychrobacter sp. P11G5,4.905341463414634e-06,peripheral
+Mixta gaviniae,1.3557439024390246e-05,peripheral
+Psychrobacter sp. P11F6,3.492721951219512e-05,peripheral
+Citrobacter koseri,6.610853658536586e-06,peripheral
+Enterobacter sichuanensis,2.460390243902439e-06,peripheral
+Citrobacter werkmanii,1.0245439024390243e-05,peripheral
+Enterobacter cloacae complex sp. ECNIH7,9.305424390243902e-05,peripheral
+Leclercia sp. LSNIH1,2.0810829268292682e-05,peripheral
+Leclercia sp. W6,2.884360975609756e-05,peripheral
+Psychrobacter sp. P2G3,4.5543414634146335e-06,peripheral
+Enterobacter sp. E76,8.714121951219512e-06,peripheral
+Escherichia albertii,7.183560975609756e-06,peripheral
+Leclercia sp. W17,2.742295121951219e-05,peripheral
+Psychrobacter sp. DAB_AL43B,2.217170731707317e-05,peripheral
+Psychrobacter sp. P11G3,9.658658536585365e-06,peripheral
+Pseudomonas brassicacearum,2.939439024390244e-06,peripheral
+Mixta theicola,6.861024390243902e-06,peripheral
+Pantoea alhagi,2.474336585365854e-05,peripheral
+Luteibacter rhizovicinus,9.685341463414633e-06,peripheral
+Serratia plymuthica,2.928731707317073e-06,peripheral
+Serratia sp. ATCC 39006,2.8145853658536583e-06,peripheral
+Pseudomonas agarici,2.6148048780487807e-06,peripheral
+Stenotrophomonas sp. WZN-1,5.420536585365853e-06,peripheral
+Buchnera aphidicola,1.575321951219512e-05,peripheral
+Tatumella sp. TA1,7.076902439024391e-06,peripheral
+Pseudomonas salegens,6.232682926829269e-06,peripheral
+Stenotrophomonas sp. ZAC14D2_NAIMI4_6,9.704609756097562e-06,peripheral
+Pseudomonas vancouverensis,2.482829268292683e-06,peripheral
+Tatumella ptyseos,3.174682926829268e-06,peripheral
+Mixta intestinalis,2.967219512195122e-06,peripheral
+Pseudomonas psychrophila,4.692780487804878e-06,peripheral
+Pseudomonas antarctica,3.516487804878049e-06,peripheral
+Pseudomonas palleroniana,3.5784146341463417e-06,peripheral
+Pseudomonas lurida,2.785951219512195e-06,peripheral
+Frateuria aurantia,8.908731707317075e-06,peripheral
+Pseudomonas versuta,6.200951219512194e-06,peripheral
+Pseudomonas simiae,1.987448780487805e-05,peripheral
+Erwinia persicina,2.68690243902439e-06,peripheral
+Psychrobacter cryohalolentis,6.043926829268293e-06,peripheral
+Azotobacter vinelandii,1.0861195121951218e-05,peripheral
+Pantoea sp. SO10,9.15809756097561e-06,peripheral
+Azotobacter salinestris,1.6120390243902438e-05,peripheral
+Tatumella citrea,1.3798731707317074e-05,peripheral
+Stenotrophomonas sp. G4,2.505048780487805e-06,peripheral
+Sphingobacterium lactis,7.939878048780488e-06,peripheral
+Pseudomonas rhodesiae,7.308268292682926e-06,peripheral
+Lactobacillus amylovorus,7.556414634146341e-06,peripheral
+Lactobacillus salivarius,1.8620707317073172e-05,peripheral
+Lactobacillus iners,2.5640999999999997e-05,peripheral
+Lactobacillus mucosae,2.4652048780487808e-05,peripheral
+Lactococcus garvieae,3.708682926829268e-06,peripheral
+Streptococcus mutans,9.088609756097561e-06,peripheral
+Streptococcus lutetiensis,4.883439024390244e-06,peripheral
+Streptococcus gallolyticus,1.656431707317073e-05,peripheral
+Lactobacillus johnsonii,6.991512195121951e-06,peripheral
+Streptococcus koreensis,7.516048780487805e-06,peripheral
+Streptococcus viridans,1.9347536585365855e-05,peripheral
+Streptococcus sp. CNU 77-61,7.321048780487805e-06,peripheral
+Streptococcus sp. CNU G2,8.654951219512195e-06,peripheral
+Streptococcus sp. CNU G3,1.0450878048780489e-05,peripheral
+Streptococcus sp. I-G2,5.281512195121951e-06,peripheral
+Streptococcus sp. HSISS2,1.0604121951219512e-05,peripheral
+Streptococcus sp. HSISS3,1.3813902439024392e-05,peripheral
+Streptococcus sp. I-P16,4.473414634146342e-06,peripheral
+Streptococcus vestibularis,8.411439024390243e-06,peripheral
+Thermoactinomyces vulgaris,3.3831463414634144e-06,peripheral
+Lactobacillus reuteri,3.026829268292683e-06,peripheral
+Lactobacillus rhamnosus,1.6034780487804878e-05,peripheral
+Ruminococcus bicirculans,2.800658536585366e-05,peripheral
+Lachnospira eligens,1.7765829268292683e-05,peripheral
+Enterocloster bolteae,1.0706048780487805e-05,peripheral
+Lachnoclostridium phocaeense,2.658487804878049e-06,peripheral
+[Clostridium] scindens,8.427121951219513e-06,peripheral
+Blautia producta,1.6842634146341466e-05,peripheral
+Lachnospiraceae bacterium KM106-2,3.5194878048780485e-06,peripheral
+Lachnospiraceae bacterium,5.673268292682927e-06,peripheral
+Lactobacillus helveticus,6.608804878048781e-06,peripheral
+Enterococcus hirae,2.8406390243902438e-05,peripheral
+Enterococcus cecorum,2.161739024390244e-05,peripheral
+Jeotgalibaca sp. H21T32,1.0551512195121952e-05,peripheral
+Leuconostoc gelidum,1.1623024390243902e-05,peripheral
+Leuconostoc citreum,9.94090243902439e-06,peripheral
+Pediococcus acidilactici,2.4614634146341466e-06,peripheral
+Pediococcus pentosaceus,6.63919512195122e-06,peripheral
+Lactobacillus farciminis,5.05290243902439e-06,peripheral
+Lactobacillus acidophilus,5.507634146341463e-06,peripheral
+Enterococcus avium,3.3712195121951217e-06,peripheral
+Solibacillus silvestris,2.488780487804878e-06,peripheral
+Saccharibacillus brassicae,2.81809756097561e-06,peripheral
+Paenibacillus bovis,6.381195121951219e-06,peripheral
+Adlercreutzia equolifaciens,1.6087731707317075e-05,peripheral
+Atopobium parvulum,2.0922731707317072e-05,peripheral
+Olsenella uli,5.440414634146342e-06,peripheral
+Rubrobacter indicoceani,1.6337609756097562e-05,peripheral
+Bifidobacterium gallinarum,6.615414634146342e-06,peripheral
+Bifidobacterium choerinum,6.716365853658537e-06,peripheral
+Bifidobacterium scardovii,2.555170731707317e-06,peripheral
+Micromonospora aurantiaca,1.1116853658536585e-05,peripheral
+Staphylococcus pettenkoferi,5.122268292682927e-06,peripheral
+Trueperella pyogenes,2.6754146341463416e-06,peripheral
+Schaalia cardiffensis,3.896609756097561e-06,peripheral
+Actinomyces pacaensis,1.3323024390243901e-05,peripheral
+Actinomyces qiguomingii,2.715048780487805e-06,peripheral
+Actinomyces gaoshouyii,9.468463414634147e-06,peripheral
+Pseudonocardia sp. EC080625-04,4.8661463414634144e-06,peripheral
+Streptomyces koyangensis,8.133609756097561e-06,peripheral
+Streptomyces rochei,2.9669512195121952e-06,peripheral
+Streptomyces cyaneogriseus,1.5220463414634147e-05,peripheral
+Flaviflexus sp. H23T48,7.968365853658536e-06,peripheral
+Staphylococcus simiae,2.659951219512195e-06,peripheral
+Staphylococcus vitulinus,2.5266585365853657e-06,peripheral
+Staphylococcus schleiferi,5.8213414634146334e-06,peripheral
+Parageobacillus genomosp. 1,2.4390243902439027e-06,peripheral
+Anoxybacillus flavithermus,1.0388341463414635e-05,peripheral
+Virgibacillus halodenitrificans,3.6736585365853654e-06,peripheral
+Geobacillus thermodenitrificans,2.4649756097560972e-06,peripheral
+Oceanobacillus iheyensis,4.8676097560975604e-06,peripheral
+Bacillus thermoamylovorans,5.3797560975609755e-06,peripheral
+Bacillus filamentosus,8.147878048780489e-06,peripheral
+Bacillus oceanisediminis,5.7163658536585365e-06,peripheral
+Bacillus flexus,6.651731707317073e-06,peripheral
+Bacillus jeotgali,1.6221e-05,peripheral
+Bacillus coagulans,3.160951219512195e-06,peripheral
+Bacillus paralicheniformis,3.5961463414634143e-06,peripheral
+Bacillus subtilis,2.3422487804878048e-05,peripheral
+Bacillus sp. Y1,1.007548780487805e-05,peripheral
+Gemella sanguinis,2.2281878048780486e-05,peripheral
+Gemella morbillorum,1.528360975609756e-05,peripheral
+Exiguobacterium sp. N4-1P,9.270878048780488e-06,peripheral
+Macrococcus canis,4.3339999999999995e-06,peripheral
+Staphylococcus stepanovicii,2.441e-06,peripheral
+Ruminococcus champanellensis,2.8847317073170733e-06,peripheral
+Pseudomonas mucidolens,2.6255121951219515e-06,peripheral
+Ruthenibacterium lactatiformans,1.3957292682926828e-05,peripheral
+Clostridium tetani,4.749243902439024e-06,peripheral
+Pseudomonas sp. R32,6.615317073170732e-06,peripheral
+Pseudomonas sp. OIL-1,7.856634146341464e-06,peripheral
+Pseudomonas sp. SNU WT1,6.326365853658537e-06,peripheral
+Pseudomonas sp. HLS-6,1.7749609756097562e-05,peripheral
+Caldilinea aerophila,8.253585365853658e-06,peripheral
+Tepidiforma bonchosmolovskayae,1.4116341463414635e-05,peripheral
+Roseiflexus castenholzii,3.920682926829269e-06,peripheral
+Roseiflexus sp. RS-1,7.024829268292684e-06,peripheral
+Pseudomonas sp. M30-35,5.893121951219512e-06,peripheral
+Pleurocapsa minor,3.3209756097560976e-06,peripheral
+Geitlerinema sp. PCC 7407,8.980731707317073e-06,peripheral
+Moorea producens,1.4268146341463414e-05,peripheral
+Oscillatoria acuminata,9.369024390243902e-06,peripheral
+Planktothrix agardhii,2.8528292682926832e-06,peripheral
+Tolypothrix sp. PCC 7910,3.264048780487805e-06,peripheral
+Microchaete diplosiphon,3.2166097560975613e-06,peripheral
+Rivularia sp. PCC 7116,6.205585365853659e-06,peripheral
+Fischerella sp. NIES-3754,1.645373170731707e-05,peripheral
+Crinalium epipsammum,1.2614243902439024e-05,peripheral
+Sphaerospermopsis kisseleviana,3.2071219512195123e-06,peripheral
+Pseudomonas sp. 7SR1,2.7146829268292683e-06,peripheral
+Pseudomonas sp. gcc21,6.120439024390243e-06,peripheral
+Pseudomonas mediterranea,2.743219512195122e-06,peripheral
+Pseudomonas veronii,2.785951219512195e-06,peripheral
+Pseudomonas sp. SGAir0191,1.7406097560975607e-05,peripheral
+Pseudomonas sp. 09C 129,2.5648780487804877e-06,peripheral
+Pseudomonas sp. LG1E9,3.627926829268293e-06,peripheral
+Pseudomonas sp. NS1(2017),3.739365853658536e-06,peripheral
+Pseudomonas sp. IB20,2.5754634146341467e-06,peripheral
+Pseudomonas sp. S35,4.742317073170731e-06,peripheral
+Pseudomonas sp. LAB-08,2.486390243902439e-06,peripheral
+Pseudomonas sp. ADAK18,3.392682926829268e-06,peripheral
+Pseudomonas sp. PONIH3,2.7468048780487804e-06,peripheral
+Pseudomonas sp. S09G 359,6.129097560975609e-06,peripheral
+Pseudomonas sp. R76,4.073682926829268e-06,peripheral
+Pseudomonas sp. BIOMIG1BAC,3.0443829268292683e-05,peripheral
+Pseudomonas sp. UW4,3.1213658536585363e-06,peripheral
+Pseudomonas sp. ADAK13,4.28419512195122e-06,peripheral
+Halomonas aestuarii,5.1360487804878045e-06,peripheral
+Pseudomonas sp. Leaf58,3.5422926829268293e-06,peripheral
+Pseudomonas sp. FGI182,4.424707317073171e-06,peripheral
+Nodularia spumigena,1.0143829268292684e-05,peripheral
+Calothrix parietina,6.4001707317073165e-06,peripheral
+Calothrix parasitica,9.42709756097561e-06,peripheral
+Faecalitalea cylindroides,3.5411219512195124e-06,peripheral
+Intestinibaculum porci,1.3806073170731707e-05,peripheral
+Selenomonas sp. oral taxon 478,2.9328048780487804e-06,peripheral
+Selenomonas sp. oral taxon 920,5.287926829268292e-06,peripheral
+Symbiobacterium thermophilum,9.258536585365853e-06,peripheral
+[Eubacterium] cellulosolvens,3.620048780487805e-06,peripheral
+Dysosmobacter welbionis,1.0251682926829268e-05,peripheral
+Oscillibacter valericigenes,8.259975609756097e-06,peripheral
+Limnochorda pilosa,2.5998536585365853e-06,peripheral
+Massilistercora timonensis,2.8847317073170733e-06,peripheral
+Mogibacterium pumilum,2.976048780487805e-06,peripheral
+Mogibacterium diversum,4.16070731707317e-06,peripheral
+Paeniclostridium sordellii,6.517e-06,peripheral
+Paraclostridium bifermentans,2.545341463414634e-06,peripheral
+Romboutsia sp. CE17,1.9977536585365854e-05,peripheral
+Peptostreptococcaceae bacterium oral taxon 929,2.6444902439024394e-05,peripheral
+Clostridium beijerinckii,7.338243902439024e-06,peripheral
+Clostridium butyricum,2.601926829268293e-06,peripheral
+[Eubacterium] sulci,9.778951219512195e-06,peripheral
+Deinococcus sp. S14-83,1.400751219512195e-05,peripheral
+Thermus scotoductus,3.3358048780487806e-06,peripheral
+Oceanithermus profundus,1.4065292682926828e-05,peripheral
+Calothrix brevissima,2.026168292682927e-05,peripheral
+Calothrix sp. 336/3,3.8049024390243906e-06,peripheral
+Calothrix sp. NIES-3974,3.368414634146341e-06,peripheral
+Calothrix sp. NIES-2100,2.215809756097561e-05,peripheral
+Calothrix sp. PCC 7507,1.6896341463414634e-05,peripheral
+Calothrix sp. NIES-2098,2.64059756097561e-05,peripheral
+Trichormus azollae,2.6283170731707317e-06,peripheral
+Cylindrospermum stagnale,2.5367268292682927e-05,peripheral
+Anabaena cylindrica,6.965121951219511e-06,peripheral
+Nostoc carneum,7.023682926829269e-06,peripheral
+Nostoc punctiforme,7.784878048780489e-06,peripheral
+Nostoc flagelliforme,1.966158536585366e-05,peripheral
+Nostoc sphaeroides,2.0964853658536584e-05,peripheral
+Nostoc sp. PCC 7107,1.3565414634146341e-05,peripheral
+Nostoc sp. ATCC 53789,7.319829268292683e-06,peripheral
+Nostoc sp. PCC 7524,1.564982926829268e-05,peripheral
+Nostoc sp. 'Peltigera membranacea cyanobiont' N6,1.6862219512195122e-05,peripheral
+Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont',1.8778804878048778e-05,peripheral
+Nostoc sp. CENA543,1.3912560975609754e-05,peripheral
+Clostridium sp. SY8519,2.545341463414634e-06,peripheral
+Pseudomonas sp. URMO17WK12:I11,2.711658536585366e-06,peripheral
+Saliniradius amylolyticus,2.5612926829268292e-06,peripheral
+Kushneria marisflavi,2.1753926829268294e-05,peripheral
+Alistipes communis,2.9978536585365856e-06,peripheral
+Alistipes shahii,7.839146341463415e-06,peripheral
+Alistipes megaguti,1.1049170731707316e-05,peripheral
+Porphyromonas cangingivalis,3.0012951219512195e-05,peripheral
+Porphyromonas asaccharolytica,9.495536585365855e-06,peripheral
+Parabacteroides distasonis,3.2170536585365854e-05,peripheral
+Tannerella forsythia,1.203e-05,peripheral
+Bacteroides helcogenes,8.795585365853659e-06,peripheral
+Bacteroides caecimuris,2.9329024390243903e-06,peripheral
+Bacteroides xylanisolvens,9.77268292682927e-06,peripheral
+Bacteroides intestinalis,1.4716878048780488e-05,peripheral
+Bacteroides zoogleoformans,5.246341463414635e-06,peripheral
+Bacteroides heparinolyticus,5.321292682926829e-06,peripheral
+Bacteroides uniformis,3.8956829268292684e-05,peripheral
+Bacteroides cellulosilyticus,1.3226170731707318e-05,peripheral
+Bacteroides caccae,9.598121951219512e-06,peripheral
+Bacteroides ovatus,3.960675609756097e-05,peripheral
+Bacteroides dorei,4.298119512195122e-05,peripheral
+Bacteroides sp. A1C1,1.6228731707317072e-05,peripheral
+Muribaculaceae bacterium DSM 108610,2.715048780487805e-06,peripheral
+Bacteroides sp. CBA7301,1.5311292682926827e-05,peripheral
+Proteiniphilum saccharofermentans,5.513317073170732e-06,peripheral
+Hymenobacter sp. TS19,1.86150487804878e-05,peripheral
+Niastella koreensis,2.5393658536585367e-06,peripheral
+Panacibacter ginsenosidivorans,3.387390243902439e-06,peripheral
+Flavisolibacter tropicus,2.5334390243902436e-06,peripheral
+Algoriphagus sanaruensis,8.065048780487804e-06,peripheral
+Rhodocytophaga sp. 172606-1,6.416975609756098e-06,peripheral
+Fibrella aestuarina,2.0148121951219513e-05,peripheral
+Runella sp. SP2,2.9794390243902437e-06,peripheral
+Runella sp. HYN0085,8.125121951219513e-06,peripheral
+Spirosoma rigui,2.7896341463414635e-06,peripheral
+Spirosoma pollinicola,2.520439024390244e-06,peripheral
+Spirosoma montaniterrae,1.1349243902439023e-05,peripheral
+Spirosoma aerolatum,2.6604634146341463e-06,peripheral
+Spirosoma sp. KCTC 42546,2.8004878048780487e-06,peripheral
+Spirosoma sp. TS118,1.0058951219512196e-05,peripheral
+Pontibacter sp. BT214,6.024682926829268e-06,peripheral
+Pontibacter sp. BT326,5.508609756097561e-06,peripheral
+Hymenobacter jejuensis,2.4955853658536585e-06,peripheral
+Hymenobacter nivis,8.124243902439026e-06,peripheral
+Hymenobacter sp. DG25B,5.339560975609756e-06,peripheral
+Hymenobacter sp. BRD72,2.055012195121951e-05,peripheral
+Salinibacter ruber,1.7113560975609756e-05,peripheral
+Bacteroides salanitronis,4.194941463414634e-05,peripheral
+Mucilaginibacter rubeus,8.963146341463414e-06,peripheral
+Bdellovibrio sp. ZAP7,1.0553878048780487e-05,peripheral
+Sulfurospirillum sp. UCH001,6.683926829268292e-06,peripheral
+Arcobacter butzleri,7.00519512195122e-06,peripheral
+Arcobacter ellisii,2.7011219512195124e-06,peripheral
+Arcobacter cryaerophilus,8.440268292682926e-06,peripheral
+Campylobacter showae,6.454951219512195e-06,peripheral
+Bradymonas sediminis,3.84380487804878e-06,peripheral
+Desulfobulbus propionicus,6.988780487804878e-06,peripheral
+Desulfovibrio carbinoliphilus,2.4955853658536585e-06,peripheral
+Anaeromyxobacter sp. K,2.7042195121951216e-06,peripheral
+Nitrosomonas communis,3.836756097560976e-06,peripheral
+Methylobacillus flagellatus,9.95829268292683e-06,peripheral
+Sulfuritortus calidifontis,1.7320121951219512e-05,peripheral
+Sterolibacterium denitrificans,2.8458536585365856e-06,peripheral
+Dechloromonas sp. HYN0024,1.6185975609756097e-05,peripheral
+Dechlorosoma suillum,4.209585365853658e-06,peripheral
+Azospira sp. I09,3.657512195121951e-06,peripheral
+Zoogloeaceae bacteirum Par-f-2,3.2240487804878053e-06,peripheral
+Jeongeupia sp. USM3,1.7999073170731706e-05,peripheral
+Bdellovibrio exovorus,4.476756097560976e-06,peripheral
+Paraprevotella xylaniphila,3.1375853658536584e-06,peripheral
+Hydrogenophilus thermoluteolus,1.205678048780488e-05,peripheral
+Chryseobacterium sp. 17S1E7,5.395609756097561e-06,peripheral
+Sphingobacterium thalpophilum,1.457e-05,peripheral
+Bergeyella cardium,2.7032926829268293e-06,peripheral
+Myroides profundi,3.327439024390244e-06,peripheral
+Myroides odoratus,1.344831707317073e-05,peripheral
+Capnocytophaga stomatis,3.0731951219512193e-06,peripheral
+Capnocytophaga cynodegmi,2.7875487804878047e-05,peripheral
+Capnocytophaga endodontalis,6.272414634146342e-06,peripheral
+Capnocytophaga canimorsus,8.865985365853658e-05,peripheral
+Capnocytophaga leadbetteri,1.7709439024390243e-05,peripheral
+Capnocytophaga sp. oral taxon 878,2.7802439024390243e-06,peripheral
+Capnocytophaga sp. FDAARGOS_737,1.848387804878049e-05,peripheral
+Flavobacterium psychrophilum,5.435634146341463e-06,peripheral
+Flavobacterium anhuiense,8.17448780487805e-06,peripheral
+Flavobacterium sediminis,9.41239024390244e-06,peripheral
+Flavobacterium sp. CJ74,7.164780487804878e-06,peripheral
+Chryseobacterium nakagawai,2.5945121951219513e-06,peripheral
+Chryseobacterium piperi,2.680048780487805e-06,peripheral
+Chryseobacterium gallinarum,3.0126829268292686e-06,peripheral
+Chryseobacterium sp. G0186,2.451951219512195e-06,peripheral
+Chryseobacterium sp. StRB126,5.960487804878048e-06,peripheral
+Chromobacterium vaccinii,1.0624414634146342e-05,peripheral
+Haliscomenobacter hydrossis,2.650121951219512e-06,peripheral
+Gemmatimonas aurantiaca,1.8693243902439026e-05,peripheral
+Severe acute respiratory syndrome-related coronavirus,8.012146341463414e-06,peripheral
+Treponema succinifaciens,5.068682926829268e-06,peripheral
+Fusobacterium ulcerans,2.9481951219512197e-06,peripheral
+Fusobacterium varium,2.7422926829268293e-06,peripheral
+Erysipelotrichaceae bacterium GAM147,4.145170731707317e-06,peripheral
+Romboutsia hominis,1.9103609756097563e-05,peripheral
+Amphibacillus xylanus,4.20309756097561e-06,peripheral
+Proteus columbae,6.902658536585365e-06,peripheral
+Pseudomonas virus LKA1,6.9918536585365845e-06,peripheral
+Enterobacter virus KDA1,3.3369512195121955e-06,peripheral
+Streptococcus virus DT1,2.5736268292682926e-05,peripheral
+Pseudomonas phage PS-1,6.5417804878048785e-06,peripheral
+Methanobrevibacter millerae,6.175975609756098e-06,peripheral
+Methanobrevibacter olleyae,7.437414634146341e-06,peripheral
+Methanobrevibacter ruminantium,3.846317073170732e-06,peripheral
+Methanobrevibacter sp. YE315,7.0930731707317075e-06,peripheral
+Methanothrix soehngenii,3.327439024390244e-06,peripheral
+Methanosarcina barkeri,9.258731707317073e-06,peripheral
+Halalkaliarchaeum desulfuricum,3.0589024390243904e-06,peripheral
+Streptococcus virus 7201,1.2304634146341464e-05,peripheral
+Halopenitus persicus,2.5152682926829267e-06,peripheral
+Dialister hominis,5.4576097560975616e-06,peripheral
+Fusobacterium mortiferum,6.599458536585365e-05,peripheral
+Cardinium endosymbiont of Sogatella furcifera,6.177048780487804e-06,peripheral
+Dialister massiliensis,5.826390243902439e-06,peripheral
+Escherichia virus Goslar,3.1130975609756095e-06,peripheral
+Helicobacter cinaedi,1.9469463414634147e-05,peripheral
+Helicobacter bilis,2.564687804878049e-05,peripheral
+Lactobacillus gallinarum,1.7089048780487806e-05,peripheral
+Frederiksenia canicola,0.00014289395121951218,peripheral
+Pasteurella dagmatis,1.4321902439024391e-05,peripheral
+Vibrio sp. 2521-89,2.91090243902439e-06,peripheral
+Shewanella xiamenensis,3.10709756097561e-06,peripheral
+Aeromonas phage AhSzq-1,1.7869243902439025e-05,peripheral
+Aeromonas phage AhSzw-1,2.367509756097561e-05,peripheral
+Aeromonas virus 56,3.5697073170731706e-06,peripheral
+Enterobacter phage phiEap-2,3.909e-06,peripheral
+Streptococcus virus ALQ132,2.8125853658536586e-06,peripheral
+Streptococcus virus Sfi19,3.107341463414634e-06,peripheral
+Streptococcus virus phiAbc2,1.5910926829268293e-05,peripheral
+Methanosarcina vacuolata,6.28270731707317e-06,peripheral
+Methanosarcina sp. Kolksee,5.441e-06,peripheral
+Longibaculum sp. KGMB06250,2.0877390243902443e-05,peripheral
+Gemmatimonas phototrophica,2.6202341463414633e-05,peripheral
+Halorubrum lacusprofundi,3.5213902439024392e-06,peripheral
+Halorubrum sp. PV6,2.64509756097561e-06,peripheral
+Fusarium graminearum,1.0221682926829268e-05,peripheral
+Nitrospira moscoviensis,3.1523170731707316e-06,peripheral
+Treponema denticola,3.180853658536585e-06,peripheral
+Treponema sp. OMZ 838,2.7084146341463416e-06,peripheral
+Treponema sp. OMZ 804,3.458756097560976e-06,peripheral
+TM7 phylum sp. oral taxon 957,2.460951219512195e-06,peripheral
+Fusobacterium pseudoperiodonticum,1.905858536585366e-05,peripheral
+Leptotrichia buccalis,8.638780487804878e-06,peripheral
+Leptotrichia trevisanii,5.54390243902439e-06,peripheral
+Leptotrichia hofstadii,7.1299268292682925e-06,peripheral
+Leptotrichia hongkongensis,9.712414634146341e-06,peripheral
+Verrucomicrobia bacterium IMCC26134,6.719658536585366e-06,peripheral
+Akkermansia muciniphila,6.345512195121952e-06,peripheral
+Roseimicrobium sp. ORNL1,2.4464878048780488e-06,peripheral
+Verrucomicrobium sp. GAS474,2.9412926829268294e-06,peripheral
+Planctomycetes bacterium ETA_A8,3.1523170731707316e-06,peripheral
+Planctomycetes bacterium Mal4,1.5035853658536584e-05,peripheral
+Planctomycetes bacterium Pla85_3_4,5.450951219512195e-06,peripheral
+Pirellula sp. SH-Sr6A,2.329407317073171e-05,peripheral
+Fusarium oxysporum,2.1771170731707315e-05,peripheral
+Halorubrum trapanicum,3.886487804878048e-06,peripheral
+Candida albicans,2.620365853658537e-06,peripheral
+Yarrowia lipolytica,1.674648780487805e-05,peripheral
+Halorubrum sp. BOL3-1,2.8479268292682927e-06,peripheral
+Haloprofundus sp. MHR1,1.2881878048780488e-05,peripheral
+Halobellus limi,1.3330878048780486e-05,peripheral
+Haloplanus rallus,7.302243902439024e-06,peripheral
+Haloplanus aerogenes,2.6531951219512195e-06,peripheral
+haloarchaeon 3A1-DGR,2.636975609756098e-06,peripheral
+Haloarculaceae archaeon HArcel1,2.5775121951219513e-06,peripheral
+Halorhabdus tiamatea,3.3996829268292685e-06,peripheral
+Halostella pelagica,5.464780487804878e-06,peripheral
+Salarchaeum sp. JOR-1,5.595829268292683e-06,peripheral
+Halorussus sp. ZS-3,2.7668048780487802e-06,peripheral
+Halorussus sp. RC-68,6.544926829268292e-06,peripheral
+Halobacterium sp. DL1,6.528024390243903e-06,peripheral
+Halobacterium hubeiense,6.871439024390243e-06,peripheral
+Halovivax ruber,1.2028463414634146e-05,peripheral
+Natrinema pallidum,3.561951219512195e-06,peripheral
+Natrinema sp. J7-2,3.5132682926829267e-06,peripheral
+Leishmania mexicana,5.683439024390244e-06,peripheral
+Plasmodium relictum,5.775609756097561e-06,peripheral
+Saccharomyces cerevisiae,5.6702682926829274e-06,peripheral
+Halomonas huangheensis,2.971682926829268e-06,peripheral
+Chromobacterium violaceum,7.737024390243903e-06,peripheral
+Vitreoscilla filiformis,8.217682926829267e-06,peripheral
+Vibrio owensii,5.68980487804878e-06,peripheral
+Vibrio natriegens,3.4373414634146343e-06,peripheral
+Vibrio alginolyticus,8.015658536585366e-06,peripheral
+Vibrio parahaemolyticus,3.0742e-05,peripheral
+Pasteurellaceae bacterium Orientalotternb1,7.515560975609756e-06,peripheral
+Haemophilus pittmaniae,4.521512195121951e-06,peripheral
+Haemophilus sp. oral taxon 036,3.0459365853658533e-05,peripheral
+Sulfurivermis fontis,3.0075853658536584e-06,peripheral
+Thiohalobacter thiocyanaticus,5.678560975609755e-06,peripheral
+Alkalilimnicola ehrlichii,2.7582682926829268e-06,peripheral
+Acidihalobacter prosperus,5.191756097560976e-06,peripheral
+Thioalkalivibrio sulfidiphilus,1.0844024390243904e-05,peripheral
+Nitrosococcus oceani,7.887829268292684e-06,peripheral
+Thiocystis violascens,2.8458536585365856e-06,peripheral
+Allochromatium vinosum,2.555170731707317e-06,peripheral
+Ferrimonas balearica,2.5149268292682927e-06,peripheral
+Idiomarinaceae bacterium HL-53,2.7146829268292683e-06,peripheral
+Idiomarina piscisalsi,2.8091219512195124e-06,peripheral
+Idiomarina sp. OT37-5b,3.1320731707317072e-06,peripheral
+Vibrio sp. HBUAS61001,4.426975609756098e-06,peripheral
+Idiomarina sp. X4,6.012658536585366e-06,peripheral
+Vibrio sp. ZWAL4003,3.1729024390243905e-06,peripheral
+Vibrio vulnificus,5.5257073170731714e-06,peripheral
+Ruegeria sp. TM1040,2.4955853658536585e-06,peripheral
+Celeribacter baekdonensis,5.116756097560976e-06,peripheral
+Sulfitobacter sp. JL08,2.5198780487804877e-06,peripheral
+Roseovarius sp. THAF8,2.4390243902439027e-06,peripheral
+Rhodobacteraceae bacterium BAR1,1.4307341463414634e-05,peripheral
+Salinisphaera sp. LB1,2.672319512195122e-05,peripheral
+Methylophaga frappieri,2.4390243902439027e-06,peripheral
+Methylophaga nitratireducenticrescens,5.715048780487805e-06,peripheral
+Gallaecimonas mangrovi,2.8538048780487804e-06,peripheral
+Methylocaldum marinum,5.02990243902439e-06,peripheral
+Methylococcus sp. IM1,2.479219512195122e-06,peripheral
+Steroidobacter denitrificans,9.072487804878048e-06,peripheral
+Sinimarinibacterium sp. NLF-5-8,5.229048780487805e-06,peripheral
+Halieaceae bacterium IMCC3088,5.7716341463414635e-06,peripheral
+Microbulbifer sp. SH-1,5.171243902439025e-06,peripheral
+Photobacterium damselae,2.5149268292682927e-06,peripheral
+Vibrio tapetis,2.6897317073170734e-06,peripheral
+Vibrio cincinnatiensis,2.6611951219512197e-06,peripheral
+Vibrio anguillarum,2.493512195121951e-06,peripheral
+Vibrio mimicus,6.399682926829268e-06,peripheral
+Ruegeria sp. THAF33,2.6011463414634145e-06,peripheral
+Idiomarina andamanensis,9.83629268292683e-06,peripheral
+Pseudoalteromonas spongiae,4.159439024390244e-06,peripheral
+Shewanella frigidimarina,3.1962682926829266e-06,peripheral
+Shewanella maritima,3.2069756097560975e-06,peripheral
+Shewanella denitrificans,3.517341463414634e-06,peripheral
+Shewanella chilikensis,6.42109756097561e-06,peripheral
+Shewanella marisflavi,4.476926829268293e-06,peripheral
+Shewanella amazonensis,5.3223658536585365e-06,peripheral
+Shewanella khirikhana,7.448463414634147e-06,peripheral
+Shewanella algae,1.1022975609756097e-05,peripheral
+Shewanella sp. W3-18-1,7.72670731707317e-06,peripheral
+Shewanella sp. WE21,7.55190243902439e-06,peripheral
+Shewanella sp. SNU WT4,9.870634146341464e-06,peripheral
+Shewanella sp. Pdp11,2.537519512195122e-05,peripheral
+Nitrincola sp. KXZD1103,4.045292682926829e-06,peripheral
+Thalassolituus oleivorans,3.4495609756097565e-06,peripheral
+Alcanivorax dieselolei,1.2340731707317073e-05,peripheral
+Pistricoccus aurantiacus,1.1737780487804878e-05,peripheral
+Halotalea alkalilenta,2.8523658536585365e-06,peripheral
+Kushneria sp. YCWA18,2.6370195121951216e-05,peripheral
+Kushneria konosiri,1.8355536585365855e-05,peripheral
+Shewanella woodyi,3.146341463414634e-06,peripheral
+Pseudoalteromonas phenolica,3.7349268292682924e-06,peripheral
+Marinobacter sp. LQ44,7.398243902439025e-06,peripheral
+Marinobacter salarius,2.8429024390243903e-06,peripheral
+Pseudoalteromonas rubra,4.4876341463414636e-06,peripheral
+Pseudoalteromonas tunicata,4.797975609756098e-06,peripheral
+Pseudoalteromonas luteoviolacea,3.948975609756098e-06,peripheral
+Pseudoalteromonas piscicida,3.6136341463414635e-06,peripheral
+Pseudoalteromonas donghaensis,2.878780487804878e-06,peripheral
+Pseudoalteromonas sp. A25,2.49709756097561e-06,peripheral
+Pseudoalteromonas sp. DL-6,2.7967317073170734e-06,peripheral
+Pseudoalteromonas sp. R3,4.234341463414634e-06,peripheral
+Streptomyces leeuwenhoekii,7.893707317073171e-06,peripheral
+Lacimicrobium alkaliphilum,6.11429268292683e-06,peripheral
+Paraglaciecola sp. L3A3,2.6148048780487807e-06,peripheral
+Salinimonas sp. KX18D6,2.5256341463414635e-06,peripheral
+Salinimonas sediminis,2.482829268292683e-06,peripheral
+Salinimonas lutimaris,5.336634146341463e-06,peripheral
+Alteromonas pelagimontana,2.621951219512195e-06,peripheral
+Alteromonas mediterranea,4.558975609756098e-06,peripheral
+Alteromonas macleodii,3.8456146341463415e-05,peripheral
+Alteromonas sp. I4,4.352073170731708e-06,peripheral
+Alteromonas sp. RKMC-009,9.529048780487804e-06,peripheral
+Marinobacter sp. JH2,4.566780487804878e-06,peripheral
+Simonsiella muelleri,2.4940243902439026e-06,peripheral
+Labrenzia sp. VG12,2.5425121951219512e-06,peripheral
+Thalassobius gelatinovorus,1.6356878048780488e-05,peripheral
+Burkholderia insecticola,5.817951219512195e-06,peripheral
+Burkholderia thailandensis,2.448048780487805e-06,peripheral
+Burkholderia sp. THE68,1.7457341463414634e-05,peripheral
+Burkholderia stagnalis,5.4031219512195125e-06,peripheral
+Burkholderia stabilis,7.91639024390244e-06,peripheral
+Burkholderia contaminans,1.3421585365853658e-05,peripheral
+Curvibacter sp. AEP1-3,6.578878048780487e-06,peripheral
+Limnohabitans sp. 103DPR2,5.935487804878049e-06,peripheral
+Diaphorobacter sp. JS3050,2.127509756097561e-05,peripheral
+Delftia acidovorans,2.612487804878049e-06,peripheral
+Rhodoferax antarcticus,3.6777073170731707e-06,peripheral
+Variovorax sp. PBL-E5,1.6009756097560974e-05,peripheral
+Acidovorax ebreus,2.7004804878048777e-05,peripheral
+Pararhodospirillum photometricum,8.273024390243902e-06,peripheral
+Thalassospira xiamenensis,3.083048780487805e-06,peripheral
+Thalassospira indica,5.12509756097561e-06,peripheral
+Magnetospirillum sp. ME-1,1.716968292682927e-05,peripheral
+Asaia bogorensis,2.359519512195122e-05,peripheral
+Granulibacter bethesdensis,1.296909756097561e-05,peripheral
+Cupriavidus nantongensis,7.737682926829268e-06,peripheral
+Gluconobacter albidus,5.02709756097561e-06,peripheral
+Paraburkholderia sp. 7Q-K02,1.4495585365853657e-05,peripheral
+Paraburkholderia sp. SOS3,1.122341463414634e-05,peripheral
+Chitinolyticbacter meiyuanensis,1.2356121951219512e-05,peripheral
+Neisseria weaveri,9.515097560975611e-06,peripheral
+Neisseria canis,7.56480487804878e-06,peripheral
+Neisseria animaloris,1.574029268292683e-05,peripheral
+Burkholderiales bacterium GJ-E10,1.148109756097561e-05,peripheral
+Oligella urethralis,1.1804634146341464e-05,peripheral
+Alcaligenaceae bacterium SJ-26,0.00011341268292682927,peripheral
+Bordetella bronchiseptica,5.285609756097561e-06,peripheral
+Bordetella sp. H567,1.6285243902439025e-05,peripheral
+Achromobacter sp. B7,7.92509756097561e-06,peripheral
+Collimonas pratensis,5.102853658536585e-06,peripheral
+Herbaspirillum hiltneri,9.281951219512194e-06,peripheral
+Janthinobacterium sp. 17J80-10,1.264970731707317e-05,peripheral
+Janthinobacterium sp. LM6,5.868853658536585e-06,peripheral
+Janthinobacterium sp. SNU WT3,6.970268292682926e-06,peripheral
+Pandoraea sp. XY-2,2.764609756097561e-06,peripheral
+Pandoraea pulmonicola,5.403390243902439e-06,peripheral
+Paraburkholderia phymatum,2.6283170731707317e-06,peripheral
+Paraburkholderia caribensis,1.5575341463414634e-05,peripheral
+Paraburkholderia sp. CCGE1002,5.022170731707317e-06,peripheral
+Roseobacter ponti,5.738560975609756e-06,peripheral
+Gluconobacter oxydans,7.902731707317073e-06,peripheral
+Acetobacter orientalis,1.4744999999999999e-05,peripheral
+Mesorhizobium japonicum,1.3307121951219513e-05,peripheral
+Mesorhizobium ciceri,5.334975609756098e-06,peripheral
+Mesorhizobium erdmanii,5.630243902439025e-06,peripheral
+Mesorhizobium opportunistum,1.383241463414634e-05,peripheral
+Mesorhizobium sp. M2A.F.Ca.ET.043.05.1.1,5.204146341463414e-06,peripheral
+Mesorhizobium sp. NZP2077,1.5618268292682926e-05,peripheral
+Methylobacterium phyllosphaerae,7.99370731707317e-06,peripheral
+Nitrobacter winogradskyi,9.229756097560974e-06,peripheral
+Bradyrhizobium diazoefficiens,2.8847317073170733e-06,peripheral
+Bradyrhizobium amphicarpaeae,1.1167365853658537e-05,peripheral
+Bradyrhizobium betae,1.923512195121951e-05,peripheral
+Bradyrhizobium sp.,3.3938048780487808e-06,peripheral
+Agrobacterium sp. T29,1.0758585365853658e-05,peripheral
+Rhizobium selenitireducens,2.9605121951219513e-06,peripheral
+Rhizobium gallicum,1.3983365853658535e-05,peripheral
+Rhizobium sp. CIAT894,5.0758780487804875e-06,peripheral
+Rhizobium sp. TCK,1.047080487804878e-05,peripheral
+Hyphomonas neptunium,2.4497073170731707e-06,peripheral
+Fluviibacterium aquatile,2.7645121951219514e-06,peripheral
+Hoeflea sp. IMCC20628,2.4924634146341464e-06,peripheral
+Acetobacter ghanensis,1.3187634146341462e-05,peripheral
+Hoeflea phototrophica,2.7144878048780486e-06,peripheral
+Rhodomicrobium vannielii,1.5132414634146342e-05,peripheral
+Caulobacteraceae bacterium 0127_4,1.1056609756097562e-05,peripheral
+Altererythrobacter ishigakiensis,5.642365853658537e-06,peripheral
+Sphingorhabdus sp. M41,5.482390243902439e-06,peripheral
+Sphingorhabdus sp. SMR4y,1.7969682926829267e-05,peripheral
+Sphingobium indicum,6.554585365853658e-06,peripheral
+Sphingobium fuliginis,2.780146341463415e-06,peripheral
+Sphingobium japonicum,8.847146341463414e-06,peripheral
+Sphingobium sp. LF-16,3.966804878048781e-06,peripheral
+Sphingobium sp. YBL2,1.4479658536585368e-05,peripheral
+Pyruvatibacter mobilis,1.1929951219512195e-05,peripheral
+Methylovirgula ligni,5.447365853658536e-06,peripheral
+Methylocella tundrae,2.694731707317073e-06,peripheral
+Methylocella silvestris,1.5132512195121953e-05,peripheral
+Methyloceanibacter caenitepidi,2.4518048780487807e-06,peripheral
+Methylocystis bryophila,1.0819926829268292e-05,peripheral
+Methylocystis heyeri,1.5145048780487804e-05,peripheral
+Ochrobactrum pseudogrignonense,3.490031707317073e-05,peripheral
+Ochrobactrum pituitosum,5.253878048780488e-06,peripheral
+Ochrobactrum quorumnocens,2.5119512195121953e-06,peripheral
+Hyphomicrobium sp. MC1,1.2366658536585367e-05,peripheral
+Streptomyces noursei,1.0282756097560976e-05,peripheral
+Capnocytophaga sp. H2931,3.752853658536585e-06,peripheral
+Klebsiella michiganensis,2.2040634146341462e-05,peripheral
+Eikenella corrodens,2.967456097560976e-05,peripheral
+Neisseria lactamica,3.5402439024390246e-06,peripheral
+Neisseria zoodegmatis,3.210114634146341e-05,peripheral
+Neisseria sp. KEM232,5.646414634146341e-06,peripheral
+Aeromonas encheleia,1.501560975609756e-05,peripheral
+Pseudomonas sp. DG56-2,3.510195121951219e-06,peripheral
+Pseudomonas sp. CMR5c,8.827317073170732e-06,peripheral
+Pseudomonas sp. S-6-2,2.2065853658536586e-05,peripheral
+Pseudomonas sp. 02C 26,1.2780999999999998e-05,peripheral
+Pseudomonas sp. SK,1.2593609756097562e-05,peripheral
+Shewanella baltica,4.157885365853659e-05,peripheral
+Collimonas arenae,2.780146341463415e-06,peripheral
+Pandoraea thiooxydans,5.009536585365854e-06,peripheral
+Streptomyces sp. CNQ-509,1.3850439024390245e-05,peripheral
+Streptomyces sp. S8,3.6248048780487808e-06,peripheral
+Streptomyces sp. HF10,7.88219512195122e-06,peripheral
+Cellvibrio sp. PSBB006,4.418082926829268e-05,peripheral
+Cellvibrio japonicus,2.1713146341463416e-05,peripheral
+Vibrio navarrensis,4.455660975609756e-05,peripheral
+Chromobacterium sp. ATCC 53434,1.3141902439024389e-05,peripheral
+Vibrio furnissii,1.6580658536585364e-05,peripheral
+Oryzomicrobium terrae,1.8959146341463415e-05,peripheral
+Pseudomonas mosselii,5.5009512195121954e-06,peripheral
+Chryseobacterium arthrosphaerae,4.452073170731708e-06,peripheral
+Chryseobacterium camelliae,5.019292682926828e-06,peripheral
+Chryseobacterium glaciei,9.674243902439025e-06,peripheral
+Chryseobacterium antarcticum,1.7224634146341463e-05,peripheral
+Xanthomonas fragariae,1.941580487804878e-05,peripheral
+Pseudomonas synxantha,2.3023658536585367e-05,peripheral
+Chryseobacterium sp. T16E-39,5.52e-06,peripheral
+Chryseobacterium sp. IHB B 17019,1.880390243902439e-05,peripheral
+Chryseobacterium sp. SNU WT5,1.912326829268293e-05,peripheral
+Chryseobacterium sp. G0201,1.1559048780487805e-05,peripheral
+Chryseobacterium sp. 3008163,1.8670536585365854e-05,peripheral
+Pseudomonas azotoformans,2.384890243902439e-05,peripheral
+Pseudomonas trivialis,6.401512195121951e-06,peripheral
+Campylobacter concisus,5.65e-06,peripheral
+Campylobacter gracilis,9.892780487804878e-06,peripheral
+Desulfovibrio desulfuricans,7.54639024390244e-06,peripheral
+Pseudomonas orientalis,1.2653463414634146e-05,peripheral
+Pseudomonas tolaasii,0.0005098567073170731,peripheral
+Salinibacterium sp. CGMCC 1.16371,2.7637317073170735e-06,peripheral
+Pseudomonas plecoglossicida,1.2714390243902438e-05,peripheral
+Streptomyces sp. RLB1-33,2.555170731707317e-06,peripheral
+Rickettsia felis,3.634836585365854e-05,peripheral
+Acinetobacter chinensis,3.29609756097561e-06,peripheral
+Streptococcus sp. oral taxon 064,5.951268292682927e-06,peripheral
+Agrobacterium vitis,7.615902439024391e-06,peripheral
+Agrobacterium rhizogenes,1.0822902439024391e-05,peripheral
+Planococcus plakortidis,2.7471512195121946e-05,peripheral
+Salicibibacter halophilus,1.7001951219512193e-05,peripheral
+Exiguobacterium acetylicum,2.3685073170731706e-05,peripheral
+Pseudarthrobacter sp. YJ56,7.519560975609756e-06,peripheral
+Jeotgalicoccus saudimassiliensis,1.776048780487805e-05,peripheral
+Staphylococcus equorum,5.993658536585365e-06,peripheral
+Staphylococcus lugdunensis,6.333146341463415e-06,peripheral
+Corynebacterium pseudopelargi,5.243975609756098e-06,peripheral
+Afipia sp. GAS231,1.7148268292682923e-05,peripheral
+Olsenella sp. GAM18,1.3944536585365852e-05,peripheral
+Corynebacterium pelargi,6.570365853658537e-06,peripheral
+Corynebacterium geronticis,1.033470731707317e-05,peripheral
+Methyloceanibacter sp. wino2,2.4670243902439023e-06,peripheral
+Corynebacterium ulcerans,1.969748780487805e-05,peripheral
+Bifidobacterium dentium,7.756975609756098e-06,peripheral
+Mesorhizobium sp. M7D.F.Ca.US.005.01.1.1,5.51429268292683e-06,peripheral
+Rhizobium tropici,1.6213170731707318e-05,peripheral
+Streptococcus sp. 1643,2.209563414634146e-05,peripheral
+Streptococcus anginosus,6.082365853658537e-06,peripheral
+Streptococcus intermedius,4.8101219512195116e-06,peripheral
+Rathayibacter tritici,1.2889731707317076e-05,peripheral
+Acinetobacter sp. WCHAc010052,6.616463414634147e-06,peripheral
+Mycoplasma mycoides,1.2071463414634146e-05,peripheral
+Anabaenopsis circularis,1.272458536585366e-05,peripheral
+Nostoc piscinale,2.2862341463414638e-05,peripheral
+Anaerococcus mediterraneensis,7.495975609756098e-06,peripheral
+Selenomonas sp. oral taxon 126,8.403975609756097e-06,peripheral
+Selenomonas sputigena,1.2938439024390244e-05,peripheral
+Schaalia meyeri,1.0895829268292683e-05,peripheral
+Chryseobacterium balustinum,1.0945341463414635e-05,peripheral
+Mobiluncus curtisii,1.2636341463414633e-05,peripheral
+Capnocytophaga sp. H4358,4.05819512195122e-06,peripheral
+Lachnoanaerobaculum umeaense,1.7504853658536587e-05,peripheral
+Pseudomonas alkylphenolica,1.1414463414634147e-05,peripheral
+Tetragenococcus halophilus,2.9942439024390247e-06,peripheral
+Enterococcus faecalis,3.082246341463415e-05,peripheral
+Arthrobacter sp. YN,2.715048780487805e-06,peripheral
+Leuconostoc lactis,1.5082097560975609e-05,peripheral
+Corynebacterium argentoratense,1.176929268292683e-05,peripheral
+Lactobacillus crispatus,3.0786560975609755e-05,peripheral
+Clostridioides difficile,1.8448463414634144e-05,peripheral
+Chryseobacterium bernardetii,8.529073170731707e-06,peripheral
+Crenobacter cavernae,1.6335073170731706e-05,peripheral
+Flavobacterium commune,7.652536585365852e-06,peripheral
+Mycolicibacter minnesotensis,4.991878048780488e-06,peripheral
+Gordonia alkanivorans,1.952590243902439e-05,peripheral
+Halorientalis sp. IM1011,1.7683146341463416e-05,peripheral
+Haloarcula sp. JP-L23,1.0195317073170731e-05,peripheral
+Gordonia westfalica,5.324707317073171e-06,peripheral
+Halobacterium salinarum,6.161975609756098e-06,peripheral
+Dietzia sp. DQ12-45-1b,8.147463414634147e-06,peripheral
+Mycobacterium mantenii,1.6754756097560974e-05,peripheral
+Mycobacterium stomatepiae,1.0512292682926828e-05,peripheral
+Salinarchaeum sp. Harcht-Bsk1,6.607317073170732e-06,peripheral
+Natronobacterium gregoryi,1.2304292682926829e-05,peripheral
+Rhodococcus sp. B7740,1.692229268292683e-05,peripheral
+Rhodococcus erythropolis,2.5878536585365853e-06,peripheral
+Halostagnicola larsenii,2.6028243902439023e-05,peripheral
+Natrialba magadii,2.5515365853658534e-05,peripheral
+Enterobacter asburiae,1.2597463414634145e-05,peripheral
+Mycobacterium sp. KMS,7.145065853658537e-05,peripheral
+Natronolimnobius sulfurireducens,1.6774560975609754e-05,peripheral
+Natronolimnobius aegyptiacus,1.8772658536585363e-05,peripheral
+Mycobacterium canettii,2.7654878048780486e-06,peripheral
+Enterobacter cloacae complex sp.,6.2832195121951215e-06,peripheral
+Mycobacterium seoulense,5.240804878048781e-06,peripheral
+Chryseobacterium carnipullorum,3.753975609756097e-06,peripheral
+Mycolicibacterium monacense,5.538000000000001e-05,peripheral
+Jonesia denitrificans,9.99551219512195e-06,peripheral
+Dermatophilus congolensis,2.4870243902439025e-06,peripheral
+Mycobacterium florentinum,1.3459243902439025e-05,peripheral
+Plantibacter flavus,7.856609756097562e-06,peripheral
+Plantibacter sp. M259,2.488780487804878e-06,peripheral
+Plantibacter sp. PA-3-X8,2.4520243902439024e-06,peripheral
+Rathayibacter rathayi,5.0085609756097555e-06,peripheral
+Microbacterium endophyticum,2.065878048780488e-05,peripheral
+Natronorubrum bangense,1.3074268292682926e-05,peripheral
+Microbacterium sp. CGR1,2.8378536585365854e-06,peripheral
+Mycobacterium marseillense,1.5285560975609756e-05,peripheral
+Mycobacterium chimaera,5.3838780487804886e-06,peripheral
+Salinigranum rubrum,1.7845219512195123e-05,peripheral
+Halorubrum ezzemoulense,3.6106341463414633e-06,peripheral
+Halapricum salinum,6.023000000000001e-06,peripheral
+Mycobacterium noviomagense,1.707265853658537e-05,peripheral
+Mycobacterium xenopi,1.609839024390244e-05,peripheral
+Natronomonas moolapensis,6.135756097560976e-06,peripheral
+Mycobacterium lacus,1.060260975609756e-05,peripheral
+halophilic archaeon DL31,2.539609756097561e-06,peripheral
+Natronorubrum aibiense,1.6508463414634146e-05,peripheral
+Propionimicrobium sp. Marseille-P3275,8.58668292682927e-06,peripheral
+Mycobacterium simiae,1.4094365853658535e-05,peripheral
+Streptomyces sp. Mg1,1.0647926829268293e-05,peripheral
+Cryptococcus neoformans,2.877829268292683e-06,peripheral
+Elizabethkingia anophelis,3.4023170731707318e-06,peripheral
+Flavobacteriaceae bacterium 3519-10,9.205780487804878e-06,peripheral
+Riemerella anatipestifer,5.202170731707318e-06,peripheral
+Streptomyces sp. RPA4-5,4.993975609756098e-06,peripheral
+Prevotella fusca,1.7073804878048783e-05,peripheral
+Stenotrophomonas sp. ZAC14A_NAIMI4_1,2.898390243902439e-06,peripheral
+Streptomyces sp. NEAU-S7GS2,2.580878048780488e-06,peripheral
+TM7 phylum sp. oral taxon 488,8.258121951219511e-06,peripheral
+Streptomyces sp. S063,5.9573170731707315e-06,peripheral
+Streptomyces sp. Tue 6075,2.5429268292682927e-06,peripheral
+Leptotrichia sp. oral taxon 212,1.8499341463414632e-05,peripheral
+Serratia rubidaea,2.334219512195122e-05,peripheral
+Sphingobacterium sp. DR205,1.0025658536585367e-05,peripheral
+Mycolicibacterium sarraceniae,6.5155121951219516e-06,peripheral
+Natrinema pellirubrum,2.9766975609756098e-05,peripheral
+Capnocytophaga gingivalis,1.5842707317073173e-05,peripheral
+Pantoea stewartii,2.243717073170732e-05,peripheral
+Atlantibacter hermannii,1.0192463414634145e-05,peripheral
+Natrinema versiforme,3.0063682926829267e-05,peripheral
+Stenotrophomonas sp. Pemsol,6.058829268292683e-06,peripheral
+Mycobacterium shinjukuense,1.6161414634146343e-05,peripheral
+Flavobacterium columnare,1.2028512195121952e-05,peripheral
+Enterobacter soli,6.527951219512196e-06,peripheral
+Streptomyces sp. S1D4-11,1.058929268292683e-05,peripheral
+Pseudomonas sabulinigri,9.975048780487806e-06,peripheral
+Flavobacterium sangjuense,1.5638073170731706e-05,peripheral
+Citrobacter freundii,3.6243414634146344e-06,peripheral
+Schizosaccharomyces pombe,8.48058536585366e-06,peripheral
+Sugiyamaella lignohabitans,1.2473658536585368e-05,peripheral
+Ogataea parapolymorpha,5.4478292682926825e-06,peripheral
+Eremothecium gossypii,2.885e-06,peripheral
+Candida dubliniensis,5.4909512195121955e-06,peripheral
+Stenotrophomonas sp. pho,8.696146341463415e-06,peripheral
+Stenotrophomonas sp. YAU14D1_LEIMI4_1,1.6778804878048783e-05,peripheral
+Weissella cibaria,0.0006277037317073171,sub_core
+Lactobacillus fermentum,0.0002481741219512195,sub_core
+Lactobacillus plantarum,0.00017248239024390244,sub_core
+Weissella paramesenteroides,0.00020933170731707315,sub_core
+Ilumatobacter coccineus,0.00019085824390243904,sub_core
+Lactococcus lactis,0.00023692429268292681,sub_core
+Staphylococcus aureus,0.00031307770731707317,sub_core
+Staphylococcus sciuri,0.000381634243902439,sub_core
+Collinsella aerofaciens,0.00020851114634146345,sub_core
+Corynebacterium diphtheriae,0.00019670219512195124,sub_core
+Staphylococcus xylosus,0.00031171278048780493,sub_core
+Salinicoccus halodurans,0.00024894868292682927,sub_core
+Olsenella umbonata,0.00021143363414634147,sub_core
+Pseudomonas entomophila,0.0001415461219512195,sub_core
+Stackebrandtia nassauensis,0.00013796453658536587,sub_core
+Thermobispora bispora,0.0001726610975609756,sub_core
+Jeotgalibacillus malaysiensis,0.000268936512195122,sub_core
+Streptococcus mitis,0.0013729866097560977,sub_core
+Actinopolyspora erythraea,0.00016975617073170733,sub_core
+Streptococcus thermophilus,0.0006858714390243902,sub_core
+Corynebacterium uterequi,0.00012974948780487803,sub_core
+Jiangella sp. DSM 45060,0.00033221214634146344,sub_core
+Catenulispora acidiphila,0.00023763539024390247,sub_core
+Corynebacterium sp. LMM-1652,0.00031354943902439024,sub_core
+Corynebacterium endometrii,0.0001866499024390244,sub_core
+Caulobacter vibrioides,0.00015329948780487803,sub_core
+Caulobacter sp. K31,0.00013913424390243903,sub_core
+Xylanimonas cellulosilytica,0.00023389814634146346,sub_core
+Altererythrobacter mangrovi,0.00025554192682926825,sub_core
+Altererythrobacter sp. B11,0.00029070636585365857,sub_core
+Xylanimonas allomyrinae,0.0002169237804878049,sub_core
+Pseudomonas sp. TCU-HL1,0.00014779741463414635,sub_core
+Pseudomonas guangdongensis,0.00017721039024390242,sub_core
+Corynebacterium testudinoris,0.0001757371951219512,sub_core
+Sphingobium sp. SYK-6,0.00019974395121951218,sub_core
+Pseudomonas sp. LTJR-52,0.00023806373170731705,sub_core
+Cellulosimicrobium sp. BI34T,0.0002879481463414634,sub_core
+Pseudactinotalea sp. HY158,0.0002469499024390244,sub_core
+Paraoerskovia marina,0.0001790588048780488,sub_core
+Cellulomonas sp. 40-2,0.0002642823658536586,sub_core
+Oerskovia sp. KBS0722,0.0002415190731707317,sub_core
+Pseudomonas knackmussii,0.00017291209756097563,sub_core
+Cellulomonas fimi,0.0003878992195121951,sub_core
+Nitratireductor sp. SY7,0.00014465448780487804,sub_core
+Cellulomonas gilvus,0.00043622556097560976,sub_core
+Cellulomonas shaoxiangyii,0.0003234877317073171,sub_core
+Xylanimicrobium sp. FW10M-9,0.00024595024390243903,sub_core
+Leuconostoc pseudomesenteroides,0.00016355163414634148,sub_core
+Ruania sp. HY168,0.0002741643658536586,sub_core
+Sanguibacter keddieii,0.0002764234390243902,sub_core
+Clostridium botulinum,0.000146312243902439,sub_core
+Corynebacterium matruchotii,0.00044293436585365854,sub_core
+Corynebacterium camporealensis,0.00026368963414634145,sub_core
+Deinococcus proteolyticus,0.00027810392682926826,sub_core
+Deinococcus metallilatus,0.0004990441219512196,sub_core
+Corynebacterium sp. 2039,0.00013171290243902442,sub_core
+Corynebacterium sp. NML98-0116,0.00028196,sub_core
+Acinetobacter sp. ACNIH2,0.0002397421951219512,sub_core
+Burkholderia cenocepacia,0.00021243639024390242,sub_core
+Corynebacterium sp. ATCC 6931,0.0003266054634146342,sub_core
+Acinetobacter ursingii,0.0005958635365853658,sub_core
+Acinetobacter venetianus,0.00027045951219512195,sub_core
+Acinetobacter soli,0.0003107088292682927,sub_core
+Acinetobacter wuhouensis,0.000258584512195122,sub_core
+Acinetobacter bereziniae,0.00019460082926829264,sub_core
+Acinetobacter radioresistens,0.0002288027073170732,sub_core
+Acinetobacter cumulans,0.00016428439024390243,sub_core
+Luteimicrobium xylanilyticum,0.00026205758536585366,sub_core
+Austwickia chelonae,0.00016966636585365855,sub_core
+Mobilicoccus sp. NJES-13,0.00030973973170731703,sub_core
+Pseudomonas luteola,0.0004105627073170732,sub_core
+Sanguibacter sp. HDW7,0.00033338858536585366,sub_core
+Frankia alni,0.00013534463414634145,sub_core
+Streptomyces rimosus,0.00017259265853658535,sub_core
+Frankia sp. QA3,0.0001496110731707317,sub_core
+Mycolicibacterium phlei,0.00019751404878048782,sub_core
+Streptomyces sp. YIM 121038,0.00013344568292682928,sub_core
+Streptomyces sp. RTd22,0.0002141619024390244,sub_core
+Streptomyces sp. SCSIO 03032,0.0002301378536585366,sub_core
+Streptomyces sp. NHF165,0.00029830953658536584,sub_core
+Streptomyces sp. W1SF4,0.00014368129268292683,sub_core
+Streptomyces sp. WAC 01438,0.00013782836585365853,sub_core
+Streptomyces sp. C8S0,0.0001522381219512195,sub_core
+Streptomyces sp. SAT1,0.00016750963414634146,sub_core
+Streptomyces sp. P3,0.00013292212195121952,sub_core
+Streptomyces sp. ZFG47,0.00014185773170731709,sub_core
+Streptomyces sp. QMT-12,0.00014572375609756097,sub_core
+Mycolicibacterium madagascariense,0.00017127121951219512,sub_core
+Mycolicibacterium sediminis,0.00019452951219512196,sub_core
+Streptomyces sp. CdTB01,0.0001773216829268293,sub_core
+Streptomyces griseus,0.0001484629512195122,sub_core
+Streptomyces chartreusis,0.00022655070731707316,sub_core
+Streptomyces griseoviridis,0.00014974065853658538,sub_core
+Streptomyces bingchenggensis,0.00020503451219512197,sub_core
+Streptomyces clavuligerus,0.00014949351219512195,sub_core
+Streptomyces cattleya,0.00022580365853658538,sub_core
+Streptomyces niveus,0.0002038729024390244,sub_core
+Streptomyces actuosus,0.00012765892682926828,sub_core
+Streptomyces tsukubensis,0.00023353939024390246,sub_core
+Streptomyces ficellus,0.00012998982926829268,sub_core
+Streptomyces globosus,0.00014980334146341465,sub_core
+Streptomyces griseorubiginosus,0.00019988553658536586,sub_core
+Streptomyces albireticuli,0.0001643090243902439,sub_core
+Streptomyces albulus,0.0001634380731707317,sub_core
+Streptomyces hygroscopicus,0.000179918243902439,sub_core
+Streptomyces lydicus,0.0002698599512195122,sub_core
+Mycolicibacterium frederiksbergense,0.00015968934146341461,sub_core
+Mycolicibacterium celeriflavum,0.00017329336585365852,sub_core
+Tomitella sp. HY188,0.00013669765853658537,sub_core
+Mycobacterium paragordonae,0.00013952670731707316,sub_core
+Mycobacteroides abscessus,0.00013497360975609757,sub_core
+Mycobacterium avium,0.00014956456097560975,sub_core
+Mycobacterium sp. YC-RL4,0.00014496285365853657,sub_core
+Rhodococcus sp. X156,0.00022667860975609754,sub_core
+Rhodococcus sp. SGAir0479,0.000145596,sub_core
+Rhodococcus sp. MTM3W5.2,0.0001654477073170732,sub_core
+Mycobacterium sp. MS1601,0.00011789860975609756,sub_core
+Mycolicibacterium chitae,0.00017476256097560976,sub_core
+Mycolicibacterium pulveris,0.00014874443902439024,sub_core
+Rhodococcus hoagii,0.00021366282926829267,sub_core
+Rhodococcus fascians,0.00013031858536585367,sub_core
+Mycolicibacterium thermoresistibile,0.00014946539024390245,sub_core
+Nocardia sp. CS682,0.00011979439024390243,sub_core
+Nocardia asteroides,0.00018612221951219511,sub_core
+Nocardia terpenica,0.00024324485365853662,sub_core
+Mycolicibacterium gadium,0.00013542139024390242,sub_core
+Gordonia phthalatica,0.00019449029268292685,sub_core
+Gordonia rubripertincta,0.0002077273658536585,sub_core
+Gordonia insulae,0.00021414287804878053,sub_core
+Mycolicibacterium hassiacum,0.0001570049268292683,sub_core
+Mycolicibacterium arabiense,0.00018143436585365852,sub_core
+Mycolicibacterium moriokaense,0.00014195553658536585,sub_core
+Streptomyces antibioticus,0.0001313820243902439,sub_core
+Gordonia sp. YC-JH1,0.00016680990243902438,sub_core
+Mycolicibacterium litorale,0.00021620497560975613,sub_core
+Mycolicibacterium rhodesiae,0.00013998380487804878,sub_core
+Mycolicibacterium goodii,0.0001553141463414634,sub_core
+Nocardia mangyaensis,0.0001338667317073171,sub_core
+Nocardia seriolae,0.00011521221951219513,sub_core
+Nocardia otitidiscaviarum,0.0001386981219512195,sub_core
+Gordonia sp. 1D,0.0002530047317073171,sub_core
+Streptomyces scabiei,0.00013380636585365855,sub_core
+Streptomyces luteoverticillatus,0.0001460400243902439,sub_core
+Streptomyces spectabilis,0.00020807770731707316,sub_core
+Prauserella marina,0.00017966960975609756,sub_core
+Micromonospora sp. WMMC415,0.00017732385365853658,sub_core
+Micromonospora sp. WMMA2032,0.00014730429268292682,sub_core
+Micromonospora echinofusca,0.00021484685365853658,sub_core
+Micromonospora krabiensis,0.00019115929268292688,sub_core
+Micromonospora terminaliae,0.00016693424390243903,sub_core
+Micromonospora echinospora,0.00020368519512195123,sub_core
+Micromonospora auratinigra,0.000162764756097561,sub_core
+Micromonospora echinaurantiaca,0.00020516165853658538,sub_core
+Micromonospora coxensis,0.00016657014634146344,sub_core
+Actinoplanes sp. OR16,0.00027303060975609756,sub_core
+Actinoplanes sp. N902-109,0.00032047807317073175,sub_core
+Actinoplanes teichomyceticus,0.0002675939268292683,sub_core
+Actinoplanes derwentensis,0.0002476809024390244,sub_core
+Actinoplanes missouriensis,0.0002602693658536585,sub_core
+Actinoplanes friuliensis,0.00030124995121951224,sub_core
+Plantactinospora sp. KBS50,0.0001893780487804878,sub_core
+Frankia sp. EAN1pec,0.00020510978048780487,sub_core
+Bifidobacterium longum,0.00036093929268292684,sub_core
+Bifidobacterium adolescentis,0.00047336870731707313,sub_core
+Corynebacterium sphenisci,0.00018646853658536584,sub_core
+Thermomonospora curvata,0.00018859724390243905,sub_core
+Actinomadura amylolytica,0.00023408180487804878,sub_core
+Kibdelosporangium phytohabitans,0.00023394336585365853,sub_core
+Actinomadura sp. WMMA1423,0.0002940020975609756,sub_core
+Streptosporangium roseum,0.00025245224390243906,sub_core
+Nonomuraea sp. WYY166,0.0003171578780487805,sub_core
+Corynebacterium provencense,0.00012955456097560976,sub_core
+Streptomonospora sp. M2,0.0003067645609756098,sub_core
+Nocardiopsis gilva,0.00016219848780487804,sub_core
+Corynebacterium terpenotabidum,0.0001646731219512195,sub_core
+Streptosporangium sp. 'caverna',0.00020391734146341464,sub_core
+Frankia inefficax,0.00025131819512195125,sub_core
+Alloactinosynnema sp. L-07,0.0002196647073170732,sub_core
+Corynebacterium glutamicum,0.0001644869756097561,sub_core
+Streptomyces olivoreticuli,0.00014713031707317073,sub_core
+Streptomyces alboflavus,0.00014606270731707316,sub_core
+Streptomyces vietnamensis,0.00015141753658536587,sub_core
+Streptomyces xinghaiensis,0.00019025853658536586,sub_core
+Streptomyces xiamenensis,0.00020876758536585366,sub_core
+Streptomyces aquilus,0.00014821268292682926,sub_core
+Kitasatospora sp. MMS16-BH015,0.00021252178048780489,sub_core
+Kitasatospora setae,0.00023029858536585362,sub_core
+Streptacidiphilus sp. DSM 106435,0.0001584808536585366,sub_core
+Mycolicibacterium rutilum,0.00021959597560975607,sub_core
+Mycolicibacterium smegmatis,0.00022736273170731707,sub_core
+Actinomyces sp. oral taxon 171,0.0006057430243902439,sub_core
+Actinomyces oris,0.00044405787804878053,sub_core
+Actinomyces naeslundii,0.0003808042926829268,sub_core
+Mycolicibacterium tokaiense,0.0001652200731707317,sub_core
+Mycolicibacterium fallax,0.00015054524390243902,sub_core
+Actinomyces slackii,0.0001262332195121951,sub_core
+Actinoalloteichus hoggarensis,0.00013577412195121949,sub_core
+Saccharothrix espanaensis,0.0002816852195121951,sub_core
+Saccharopolyspora sp. E2A,0.00029825446341463416,sub_core
+Saccharomonospora marina,0.00020788009756097562,sub_core
+Saccharomonospora glauca,0.00014187458536585367,sub_core
+Saccharomonospora azurea,0.00021493034146341462,sub_core
+Allokutzneria albata,0.00024601187804878047,sub_core
+Amycolatopsis orientalis,0.00013789463414634148,sub_core
+Amycolatopsis albispora,0.00025673382926829274,sub_core
+Amycolatopsis sp. YIM 10,0.0002508993170731707,sub_core
+Mycolicibacterium chubuense,0.00021593551219512195,sub_core
+Mycolicibacterium fortuitum,0.000216892756097561,sub_core
+Mycolicibacterium mageritense,0.00018302212195121952,sub_core
+Actinomyces howellii,0.00015351339024390244,sub_core
+Amycolatopsis keratiniphila,0.00017220419512195122,sub_core
+Amycolatopsis sp. AA4,0.0002497534634146341,sub_core
+Curtobacterium sp. MR_MD2014,0.00019019,sub_core
+Enterobacter hormaechei,0.00030940585365853656,sub_core
+Altererythrobacter sp. BO-6,0.0002457411463414634,sub_core
+Arthrobacter sp. QXT-31,0.0001582357073170732,sub_core
+Altererythrobacter marensis,0.0002910643658536585,sub_core
+Altererythrobacter namhicola,0.0002221201707317073,sub_core
+Altererythrobacter epoxidivorans,0.00022484080487804878,sub_core
+Croceicoccus marinus,0.00026033573170731707,sub_core
+Croceicoccus naphthovorans,0.00016304699999999999,sub_core
+Qipengyuania sediminis,0.0004493357073170731,sub_core
+Brevundimonas sp. DS20,0.00031175836585365854,sub_core
+Brevundimonas sp. Bb-A,0.00025697387804878046,sub_core
+Brevundimonas sp. 'scallop',0.00028961434146341467,sub_core
+Brevundimonas subvibrioides,0.0003470829756097561,sub_core
+Brevundimonas vesicularis,0.00018854753658536583,sub_core
+Caulobacter sp. FWC26,0.00016130068292682925,sub_core
+Caulobacter flavus,0.0002497971463414634,sub_core
+Caulobacter mirabilis,0.0002389098292682927,sub_core
+Micrococcus sp. A1,0.00032521124390243904,sub_core
+Roseomonas sp. FDAARGOS_362,0.0004172318536585365,sub_core
+Stella humosa,0.0002296901219512195,sub_core
+Azospirillum sp. CFH 70021,0.00022861768292682931,sub_core
+Actinopolymorpha singaporensis,0.00025159407317073174,sub_core
+Azospirillum lipoferum,0.00020289353658536587,sub_core
+Indioceanicola profundi,0.00021743082926829266,sub_core
+Tistrella mobilis,0.0001713904634146341,sub_core
+Phreatobacter cathodiphilus,0.00019028987804878047,sub_core
+Polymorphum gilvum,0.00020721429268292678,sub_core
+Acidovorax sp. T1,0.0001572659024390244,sub_core
+Aeromicrobium marinum,0.0002737453902439025,sub_core
+Comamonas serinivorans,0.00020946329268292684,sub_core
+Arthrobacter sp. ERGS1:01,0.00013558963414634146,sub_core
+Arthrobacter sp. UKPF54-2,0.0001265441707317073,sub_core
+Erythrobacter aureus,0.0003443654390243902,sub_core
+Erythrobacter seohaensis,0.0003858784634146341,sub_core
+Sphingomonas sp. C8-2,0.00018616099999999998,sub_core
+Pseudarthrobacter phenanthrenivorans,0.00013258865853658537,sub_core
+Glutamicibacter sp. ZJUTW,0.0001745249268292683,sub_core
+Glutamicibacter nicotianae,0.00018239463414634145,sub_core
+Sphingomonas wittichii,0.00023245131707317078,sub_core
+Sphingomonas indica,0.0003541384878048781,sub_core
+Sphingopyxis sp. FD7,0.0002686715609756097,sub_core
+Sphingopyxis sp. 113P3,0.0001980300487804878,sub_core
+Sphingopyxis sp. PAMC25046,0.00024451092682926826,sub_core
+Sphingopyxis sp. QXT-31,0.00023948329268292683,sub_core
+Glutamicibacter mishrai,0.0001614679024390244,sub_core
+Sphingopyxis fribergensis,0.00021871851219512192,sub_core
+Sphingopyxis alaskensis,0.00019214153658536588,sub_core
+Sphingopyxis lindanitolerans,0.00017255034146341464,sub_core
+Aeromicrobium sp. A1-2,0.00017905729268292682,sub_core
+Arthrobacter dokdonellae,0.00014378651219512195,sub_core
+Novosphingobium sp. ABRDHK2,0.0003317992195121951,sub_core
+Arthrobacter crystallopoietes,0.00018504043902439025,sub_core
+Novosphingobium aromaticivorans,0.00026119753658536583,sub_core
+Novosphingobium ginsenosidimutans,0.00029161846341463414,sub_core
+Sphingosinicella sp. BN140058,0.0003491039268292683,sub_core
+Citromicrobium sp. JL477,0.0002811557073170732,sub_core
+Rhizorhabdus dicambivorans,0.00020448253658536585,sub_core
+Porphyrobacter sp. CACIAM 03H1,0.00045066778048780495,sub_core
+Porphyrobacter sp. LM 6,0.0002952223658536585,sub_core
+Porphyrobacter sp. HT-58-2,0.0002853674634146341,sub_core
+Porphyrobacter neustonensis,0.00035637695121951217,sub_core
+Erythrobacter sp. HKB08,0.0003251427073170732,sub_core
+Erythrobacter sp. HL-111,0.0002767990975609756,sub_core
+Arthrobacter sp. U41,0.0001353889268292683,sub_core
+Novosphingobium sp. Gsoil 351,0.0002634437317073171,sub_core
+Sphingomonas sp. HDW15A,0.0004037175853658537,sub_core
+Aeromicrobium sp. 592,0.00025830460975609755,sub_core
+Hydrogenophaga sp. PBL-H3,0.00022286519512195122,sub_core
+Chryseobacterium sp. NEB161,0.0013505974146341465,sub_core
+Chryseobacterium gleum,0.00015195795121951218,sub_core
+Microlunatus sp. Gsoil 973,0.00018286617073170732,sub_core
+Microlunatus sp. KUDC0627,0.00022372304878048784,sub_core
+Propionibacterium australiense,0.00018720558536585366,sub_core
+Propionibacterium acidifaciens,0.0002587150731707317,sub_core
+Prevotella intermedia,0.00024000009756097563,sub_core
+Mycobacterium grossiae,0.00023018168292682925,sub_core
+Flavisolibacter sp. 17J28-1,0.0007692273414634147,sub_core
+Acidipropionibacterium virtanenii,0.00016007868292682926,sub_core
+Planctomyces sp. SH-PL62,0.00018722439024390245,sub_core
+Aquisphaera giovannonii,0.00022438965853658537,sub_core
+Planctomycetes bacterium ElP,0.00031238821951219513,sub_core
+Luteitalea pratensis,0.0003581645365853659,sub_core
+Sporisorium graminicola,0.00030328921951219514,sub_core
+Neurospora crassa,0.0002589511219512195,sub_core
+Cercospora beticola,0.0003449522682926829,sub_core
+Candida orthopsilosis,0.0008088896829268294,sub_core
+Toxoplasma gondii,0.00020406812195121953,sub_core
+Haloterrigena daqingensis,0.0004917155609756097,sub_core
+Natronococcus occultus,0.0004520791463414634,sub_core
+Halalkalicoccus jeotgali,0.0004902643414634146,sub_core
+Gryllotalpicola sp. 2DFW10M-5,0.00016564178048780487,sub_core
+Rubrobacter radiotolerans,0.00018627046341463416,sub_core
+Micromonospora siamensis,0.0001490510975609756,sub_core
+Micromonospora purpureochromogenes,0.00014843253658536584,sub_core
+Nocardia nova,0.00011686434146341464,sub_core
+Streptomyces sp. GSSD-12,0.00013930548780487806,sub_core
+Streptomyces sp. DSM 40868,0.00012584358536585363,sub_core
+Microlunatus soli,0.0002587925609756098,sub_core
+Haliangium ochraceum,0.00017244553658536584,sub_core
+Minicystis rosea,0.00020634968292682928,sub_core
+Sandaracinus amylolyticus,0.00023124248780487808,sub_core
+Hydrogenophaga sp. RAC07,0.0002460711219512195,sub_core
+Aeromicrobium sp. MF47,0.00023747597560975608,sub_core
+Variovorax sp. HW608,0.00024869058536585364,sub_core
+Variovorax sp. PMC12,0.00018387051219512197,sub_core
+Variovorax sp. WDL1,0.00014881241463414634,sub_core
+Nocardioides baekrokdamisoli,0.00017008407317073171,sub_core
+Rhodoferax koreense,0.0002073300487804878,sub_core
+Delftia tsuruhatensis,0.0001695351463414634,sub_core
+Pulveribacter suum,0.0001647461219512195,sub_core
+Melaminivora sp. SC2-9,0.0001715069024390244,sub_core
+Paraburkholderia fungorum,0.00018296119512195122,sub_core
+Cupriavidus oxalaticus,0.00016275131707317077,sub_core
+Ralstonia solanacearum,0.00019941268292682926,sub_core
+Achromobacter denitrificans,0.00015103607317073172,sub_core
+Hydrogenophaga sp. BPS33,0.0002602267317073171,sub_core
+Bordetella hinzii,0.00012095529268292684,sub_core
+Xylophilus sp. KACC 21265,0.0001683548048780488,sub_core
+Mitsuaria sp. 7,0.00026005865853658537,sub_core
+Burkholderiales bacterium JOSHI_001,0.0002949331707317073,sub_core
+[Polyangium] brachysporum,0.00021549829268292683,sub_core
+Neisseria mucosa,0.0008157169268292681,sub_core
+Neisseria subflava,0.0005081740975609757,sub_core
+Thauera sp. K11,0.0002413032926829268,sub_core
+Corallococcus macrosporus,0.00018917514634146342,sub_core
+Myxococcus stipitatus,0.000207431756097561,sub_core
+Myxococcus xanthus,0.0002189442682926829,sub_core
+Archangium gephyra,0.0005312652682926829,sub_core
+Cystobacter fuscus,0.0002460757073170732,sub_core
+Deinococcus radiodurans,0.0002319588048780488,sub_core
+Anaeromyxobacter sp. Fw109-5,0.00018424302439024393,sub_core
+Leptothrix cholodnii,0.0002934419268292683,sub_core
+Sphingomonas sp. C33,0.00033010556097560974,sub_core
+Sphingomonas sp. AE3,0.0003848149024390244,sub_core
+Sphingomonas sp. MK52,0.0001932619268292683,sub_core
+Salinicola tamaricis,0.00016960056097560974,sub_core
+Haemophilus parainfluenzae,0.0010141621951219512,sub_core
+Solimonas sp. K1W22B-7,0.00019625251219512193,sub_core
+Vibrio cholerae,0.000941485975609756,sub_core
+Curtobacterium sp. BH-2-1-1,0.00017833748780487802,sub_core
+Curtobacterium sp. SGAir0471,0.00022712929268292684,sub_core
+Leifsonia sp. PS1209,0.00017055341463414634,sub_core
+Leifsonia sp. 21MFCrub1.1,0.00014184336585365854,sub_core
+Rathayibacter festucae,0.0001578949024390244,sub_core
+Rathayibacter sp. VKM Ac-2760,0.00014256500000000001,sub_core
+Rathayibacter sp. VKM Ac-2759,0.00019285765853658534,sub_core
+Agromyces protaetiae,0.00021732153658536585,sub_core
+Agromyces aureus,0.00026917451219512194,sub_core
+Agromyces sp. MF30-A,0.0001887219268292683,sub_core
+Agromyces sp. HY052,0.00020269963414634145,sub_core
+Paracoccus mutanolyticus,0.00019373465853658538,sub_core
+Paracoccus marcusii,0.0001547873902439024,sub_core
+Agromyces sp. KACC 19306,0.00025212797560975606,sub_core
+Agromyces sp. LHK192,0.00028964136585365855,sub_core
+Microbacterium wangchenii,0.0002762472682926829,sub_core
+Rhodobacteraceae bacterium SH-1,0.0002510380975609756,sub_core
+Rhodovulum sulfidophilum,0.0003133590487804878,sub_core
+Rhodovulum sp. MB263,0.00019439453658536587,sub_core
+Rhodovulum sp. P5,0.0001983638048780488,sub_core
+Roseovarius indicus,0.00023535114634146338,sub_core
+Sulfitobacter sp. AM1-D1,0.0001521310731707317,sub_core
+Microbacterium amylolyticum,0.00016094246341463413,sub_core
+Yangia pacifica,0.0002913410975609756,sub_core
+Yangia sp. CCB-MM3,0.00021292363414634146,sub_core
+Chromohalobacter salexigens,0.00036825490243902443,sub_core
+Halomonas elongata,0.0004686656829268293,sub_core
+Halomonas meridiana,0.0002859787073170732,sub_core
+Curtobacterium flaccumfaciens,0.00017004695121951218,sub_core
+Escherichia fergusonii,0.0002815472439024391,sub_core
+Pantoea vagans,0.00020855490243902437,sub_core
+Mixta calida,0.00029261307317073173,sub_core
+Serratia marcescens,0.0001692017073170732,sub_core
+Stenotrophomonas sp. ESTM1D_MKCIP4_1,0.00014935607317073172,sub_core
+Stenotrophomonas sp. SAU14A_NAIMI4_5,0.00017405809756097562,sub_core
+Stenotrophomonas sp. 364,0.00014377539024390244,sub_core
+Xanthomonas oryzae,0.00016309307317073174,sub_core
+Xanthomonas citri,0.0001484419268292683,sub_core
+Dermabacter jinjuensis,0.00030994075609756095,sub_core
+Dermabacter hominis,0.00030726365853658535,sub_core
+Lysinimonas sp. KACC 19322,0.00018017087804878047,sub_core
+Herbiconiux sp. SALV-R1,0.0002164602682926829,sub_core
+Protaetiibacter intestinalis,0.0003065795609756098,sub_core
+Gemmobacter sp. HYN0069,0.0002751762195121951,sub_core
+Humibacter sp. WJ7-1,0.0001801010975609756,sub_core
+Dokdonella koreensis,0.00019072434146341464,sub_core
+Frondihabitans sp. 762G35,0.000157167,sub_core
+Aeromonas sp. ASNIH5,0.0002546129756097561,sub_core
+Frondihabitans sp. PAMC 28766,0.00015795719512195122,sub_core
+Microbacteriaceae bacterium WY83,0.0003130898536585366,sub_core
+Leucobacter sp. DSM 101948,0.00022021719512195124,sub_core
+Shewanella sp. FDAARGOS_354,0.003625514390243902,sub_core
+Shewanella sp. MR-4,0.00037500095121951224,sub_core
+Shewanella sp. MR-7,0.00036416126829268294,sub_core
+Leucobacter triazinivorans,0.00022742041463414631,sub_core
+Shewanella bicestrii,0.0007313238292682927,sub_core
+Shewanella decolorationis,0.0005527087073170731,sub_core
+Curtobacterium pusillum,0.00016686439024390245,sub_core
+Rheinheimera sp. D18,0.0002729647804878049,sub_core
+Microcella alkaliphila,0.00034670617073170727,sub_core
+Ruegeria pomeroyi,0.0001814388292682927,sub_core
+Salipiger profundus,0.00032742521951219515,sub_core
+Thioclava nitratireducens,0.0002569006585365854,sub_core
+Methylobacterium terrae,0.000295017,sub_core
+Methylobacterium currus,0.0002650248048780488,sub_core
+Methylobacterium mesophilicum,0.0003974764390243902,sub_core
+Microbacterium sp. PAMC 28756,0.00024506736585365853,sub_core
+Microvirga sp. 17 mud 1-3,0.00018526431707317073,sub_core
+Microvirga sp. HR1,0.00026492885365853665,sub_core
+Mesorhizobium sp. 8,0.0001953278780487805,sub_core
+Mesorhizobium oceanicum,0.00020835121951219513,sub_core
+Aminobacter sp. MSH1,0.00015217031707317073,sub_core
+Devosia sp. I507,0.00017117187804878049,sub_core
+Devosia sp. A16,0.00023075665853658538,sub_core
+Devosia ginsengisoli,0.00018112429268292684,sub_core
+Starkeya novella,0.0002198450975609756,sub_core
+Xanthobacter autotrophicus,0.00021673575609756096,sub_core
+Methylobacterium sp. WL1,0.00023518224390243906,sub_core
+Azorhizobium caulinodans,0.00014755639024390243,sub_core
+Chelatococcus sp. CO-6,0.00016494678048780485,sub_core
+Sphingobium sp. CAP-1,0.00018298999999999998,sub_core
+Sphingobium sp. TKS,0.00016384970731707317,sub_core
+Sphingobium cloacae,0.0002555766829268292,sub_core
+Sphingobium baderi,0.00014883168292682925,sub_core
+Sphingobium amiense,0.00021350836585365851,sub_core
+Sphingobium hydrophobicum,0.00016019792682926828,sub_core
+Sphingomonas sp. LM7,0.00031478312195121953,sub_core
+Sphingomonas sp. HDW15C,0.00042032934146341467,sub_core
+Sphingomonas sp. Cra20,0.00030710817073170736,sub_core
+Sphingomonas sp. HKS19,0.00030162400000000007,sub_core
+Sphingomonas sp. HDW15B,0.0004024108536585366,sub_core
+Sphingomonas sp. NIC1,0.000264423,sub_core
+Sphingomonas sp. AP4-R1,0.0003033543658536585,sub_core
+Aureimonas sp. AU20,0.00022090507317073173,sub_core
+Enterobacter roggenkampii,0.00024370402439024392,sub_core
+Microbacterium sp. ST-M6,0.00034009773170731706,sub_core
+Bosea sp. PAMC 26642,0.00016025365853658536,sub_core
+Stappia indica,0.0001810029512195122,sub_core
+Silicimonas algicola,0.0003325016585365854,sub_core
+Sagittula sp. P11,0.00031837414634146343,sub_core
+Roseivivax sp. THAF30,0.00016281734146341464,sub_core
+Pelagibaca abyssi,0.00023088595121951218,sub_core
+Marinovum algicola,0.00022833817073170728,sub_core
+Confluentimicrobium sp. EMB200-NS6,0.00022581043902439025,sub_core
+Mameliella alba,0.00023420529268292683,sub_core
+Brevirhabdus pacifica,0.00024596951219512194,sub_core
+Halovulum dunhuangense,0.0001832989512195122,sub_core
+Dinoroseobacter shibae,0.00021085953658536586,sub_core
+Roseibacterium elongatum,0.00016371856097560975,sub_core
+Rhizobium sp. S41,0.0002772058536585366,sub_core
+Rhizobium sp. ACO-34A,0.00014082356097560976,sub_core
+Bosea vaviloviae,0.00017842053658536586,sub_core
+Rhizobium sp. Khangiran2,0.00028141251219512196,sub_core
+Rhizobium rhizoryzae,0.00013126024390243903,sub_core
+Agrobacterium sp. RAC06,0.00016472448780487805,sub_core
+Neorhizobium sp. NCHU2750,0.00014188321951219513,sub_core
+Neorhizobium sp. SOG26,0.00015175446341463415,sub_core
+Neorhizobium galegae,0.00019855648780487805,sub_core
+Sinorhizobium sp. RAC02,0.00018449760975609755,sub_core
+Sinorhizobium meliloti,0.00021365039024390248,sub_core
+Microbacterium sp. TPU 3598,0.00019417836585365852,sub_core
+Microbacterium sp. 1S1,0.00022201207317073168,sub_core
+Microbacterium sp. L-031,0.0003026182439024391,sub_core
+Bradyrhizobium erythrophlei,0.0002650890975609756,sub_core
+Microbacterium sp. Y-01,0.00032759275609756095,sub_core
+Microbacterium sp. CBA3102,0.00026938690243902437,sub_core
+Bosea sp. AS-1,0.00022441214634146342,sub_core
+Rhizobium pseudoryzae,0.00020764251219512194,sub_core
+Mycobacterium dioxanotrophicus,0.00015115439024390243,sub_core
