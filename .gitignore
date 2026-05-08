@@ -167,3 +167,6 @@ figures/*
 
 #results/*
 .Rhistory
+.RData
+*.pdf
+*.xlsx
