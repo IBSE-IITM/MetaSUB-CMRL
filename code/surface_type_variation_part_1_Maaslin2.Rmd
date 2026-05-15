@@ -36,7 +36,7 @@ species_df = read.csv("../data/Chennai_data/bracken_species_non_human_processed.
 
 ```{r}
 
-run_maaslin2 <- function(input_data, df_input_metadata, output, min_abundance, min_prevalence, standardize, analysis_method, normalization, fixed_effects, reference) {
+run_maaslin2 <- function(input_data, df_input_metadata, output, min_abundance, min_prevalence, standardize, analysis_method, normalization, fixed_effects, reference,random_effects) {
     Maaslin2(
         input_data     = input_data,
         input_metadata = df_input_metadata, 
@@ -50,21 +50,26 @@ run_maaslin2 <- function(input_data, df_input_metadata, output, min_abundance, m
         min_abundance  = min_abundance,
         min_prevalence = min_prevalence,
         standardize    = standardize,
-        cores          = 10
+        cores          = 10,
+        random_effects = random_effects,
     )
 }
 
 
 ```
+# Run the function
 
-## Call the function
 ```{r}
+# Fixed effects: Surface type and collection batch. Random effect: station
 fit_func_species <- run_maaslin2(species_df,df_input_metadata, 
-                                 "../results/chennai_kiosk_species_abd_0.001", 
-                                 0.001, 0.5, FALSE, "LM", "CLR",c("is_kiosk"),c("is_kiosk,Other"))
-fit_func_species <- run_maaslin2(species_df,df_input_metadata, 
-                                 output ="../results/chennai_Rod_species_abd_0.001", 
-                                 0.001, 0.5, FALSE, "LM", "CLR",c("is_Rod"),c("is_Rod,Other"))
+                                 output ="../results/chennai_Kiosk_species_abd_0.001_stat_corrected", 
+                                 0.001, 0.5, FALSE, "LM", "CLR",c("is_kiosk","Year_categorical"),c("is_kiosk,Other"),c("location.name"))
 
+fit_func_species <- run_maaslin2(species_df,df_input_metadata, 
+                                 output ="../results/chennai_Rod_species_abd_0.001_stat_corrected", 
+                                 0.001, 0.5, FALSE, "LM", "CLR",c("is_Rod","Year_categorical"),c("is_Rod,Other"),c("location.name"))
 
 ```
+
+
+
